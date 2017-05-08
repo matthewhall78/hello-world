@@ -2,10 +2,6 @@
 **728 Maltby Court, Victoria, BC V9B 0R5**
 **(250) 896-4059 | mmhall@gmail.com**
 
--	Mineral Titles Online, Technology Modernization Project
--	Mines Management System (Permits, Mine Visits, Certifications, Securities, Dangerous Occurrences, Inspections, Consultation and Referrals)
--	Geological Survey (Assessment Reports, Mineral Potential,  PropertyFile, MapPlace publication of spatial data & GIS Tools)
-
 # Experience
  
 ## Scrum Master:
@@ -15,17 +11,19 @@
 	* Developed the first set of screens using Bootstrap (HTML/CSS/JS)
 	* Mentoring Product Manager in Scrum
 	* Completed 2 vendor community opportunities using the Code-with-Us program from BC Dev Exchange to 
-	  hire a front-end dev for creation of the mockup and prototypes, and then to
-	  hire a back-end dev to develop an API, back-end code, database utlizing related DevOps pipeline tools. 
-	* First MVP targeting to be completed at the end of April, 6 weeks after the first Sprint.
-
+	  hire a front-end developer for the creation of mockups and prototypes, and then to
+	  hire a back-end developer, to build an API, back-end code, and database, 
+	* Gained knowledge in the use of related DevOps pipeline tools and Scrum tools
+	* Built a product roadmap for the completion of a Carbon Credit Trading system
+	
 
 ## Business Portfolio Manager, Business Analyst and Project Manager:
 ### Corporate Services for Natural Resources, Information Mgmt Branch – Apr 2007 to Present
 - Knowledge and experience with change management processes and project management methodologies (8 yrs)
 	* Lead Business Portfolio Manager 
 	  on the Mines & Mineral Resources Automation & System Integration (MMRASI) project (Jan 2014 to Present)
-	* Lead Project Manager for the Database and Spatial Technology Upgrade Project
+	* Lead Project Manager for a Database and Spatial Technology Upgrade Project in which I 
+	  lead the coordination efforts between the impacted application
 	* Since Apr 2007 I have used change management process and project management methodologies 
 	  to coordinate the delivery of software releases in my assigned portfolio within the IMB
 	* I have taken three Project Management courses (PM 11, PM 200 & PM 250)
