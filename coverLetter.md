@@ -98,6 +98,8 @@ _ISL 27R - Senior Scrum Master (Technical), Requisition: 40935_
 > In managing these teams I provided coaching and direction for the team to support their efforts to learn and follow the BC Government culture, standards and processes.   
   
   
+----   
+
   
 _Thank you for your time in reviewing my cover letter and resume.
 I am looking forward to an opportunity to further discuss my qualifications._
