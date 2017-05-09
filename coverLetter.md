@@ -36,7 +36,7 @@ _ISL 27R - Senior Scrum Master (Technical), Requisition: 40935_
 >   
 > Since 2007 I have had a role similar to that of a Scrum Master providing coaching and mentoring for development teams and their respective product owner (referred to as an application administrator). I have usually been assigned between 3 to 7 software products at one time. During this time I have participated both in a coaching role for the team as well as being a member of the development team, assisting in defining the contents of time-boxed release cycles. I have worked side by side developers as they reviewed their code. I have conducted various types of testing and created test plans for the items being developed. I have promoted feature driven development approaches in order to maximize the value of the development team. We have also employed the use of the MoSCoW (Must, Should, Could, Won’ts) approach as described in Dynamic Systems Development Method.   
 >   
-> I have been an advocate for change in my organization and have many years sought for opportunities to experiment with more agile and lightweight approaches to software development. One example was that I was the Chair of a lightweight development community of practice, to help government staff produce small desktop productivity applications with the help of a Development Team expert that we brought in on contract to do a few sprints with the government staff. These staff employees were given mentoring in the processes and tools required to create a solution in a short timeline. And the knowledge and instruction that we provided to each team was collected into a SharePoint site archive as a set of lessons that others could draw from.
+> I have always been an advocate for change in my organization and including experimenting with more agile and lightweight approaches to software development. One example was that I was the Chair of a lightweight development community of practice, to help government staff produce small desktop productivity applications with the help of a Development Team expert that we brought in on contract to do a few sprints with the government staff. These staff employees were given mentoring in the processes and tools required to create a solution in a short timeline. And the knowledge and instruction that we provided to each team was collected into a SharePoint site archive as a set of lessons that others could draw from.
 
 ## Experience coaching staff and project teams
 > I have facilitated many project and scrum events for the development team as needed, and have encouraged them to be self-organizing and accountable for the work they deliver. I have supported the development team by resolving project impediments for the team through frequent interaction with the organization.
@@ -46,7 +46,7 @@ _ISL 27R - Senior Scrum Master (Technical), Requisition: 40935_
 > I have co-facilitated five Lego4Scrum workshops to begin training the organization in scrum and agile principles.
 
 ## Knowledge of web development, and UI best practices
-> I have 10 years experience supporting and managing development teams in the creation of web applications, including systems that utilize various methods of financial transactions such as credit card, preauthorized debit, or electronic fund transfers. For my whole career I have been involved in collaborating with teams across government in regards to best practices for User Interface Design and Web Media solutions.  
+> I have 10 years experience supporting and managing development teams in the creation of web applications. For my whole career I have been involved in collaborating with teams across government in regards to best practices for User Interface Design and Web Media solutions.  
 > 
 > Between 2009 and 2010 I was heavily involved Co-chairing the Web Media Community of Practice where we worked with the OCIO, GCPE and SSBC to facilitate cross government discussions about web development, innovation, and UI best practices.   
 >  
@@ -55,11 +55,11 @@ _ISL 27R - Senior Scrum Master (Technical), Requisition: 40935_
 > While I do spend time researching options, and strategies for solutions, part of my knowledge comes from knowing who I can talk to for advice and direction on the options I come up with. I work closely with experts in many disciplines such as Data, Technical, Security and Enterprise Architecture.
 
 ## Knowledge of UX application development
-> I have received training in Service Design, Lean, Behavior Driven Development and Prototyping. I have taken courses at UVic in human computer interaction and I have a minor is psychology where I studied those interactions.  The roadmap created for the Transportation Fuels Reporting project, which I am currently the Scrum Master for, has incorporated all these aspect of UX application development into the plan.
+> I have received training in Service Design, Lean, Behavior Driven Development and Prototyping. I have taken courses at UVic in human computer interaction and I have a minor is psychology where I studied those interactions in greater detail.  I created the roadmap for the Transportation Fuels Reporting project, which I am currently the Scrum Master for, and have incorporated all these aspect of UX application development into the plan.
 >
 > I have also worked closely with information architects in designing new systems and services, and understand the importance of the structure of the content of a system.
 >
-> I have facilitated workshops to develop User Personas and Value Proposition Canvas. I have developed paper prototypes to get rapid user feedback as well as high fidelity bootstrap mockups. 
+> I have facilitated workshops to develop User Personas and Value Proposition Canvas. I have developed paper prototypes to get rapid user feedback and I developed the subsequent high fidelity bootstrap mockups. 
 
 ## Proficient knowledge in scrum management practices and tools
 > I have a basic understanding and proficiency in Extreme Programming, Lean, KanBan, Scrum, Behaviour Driven Development, and the implementation of a Continuous Deployment Pipeline (Automated build, deployment, testing, code review, vulnerability scan, schema inspection). I have received specific training or taken courses in all of these areas.   
@@ -83,7 +83,7 @@ _ISL 27R - Senior Scrum Master (Technical), Requisition: 40935_
 ## Consultation and influence management skills
 > Since May 2006 I have had experience consulting with clients on how they can direct their IM/IT efforts. By utilizing Information System Plans and reviewing the technical health and business value of their systems I have had many opportunities to influence the business towards a successful outcome. 
 >
-> Currently there are many opportunities to have conversations with peers in my branch about Agile and Scrum and how they different from tradition approaches to software development. I have produced a Trello template for other in my branch to use. I have ran workshops to share how Agile and Scrum can be used. 
+> Currently there are many opportunities to have conversations with peers in my branch about Agile and Scrum and how they different from tradition approaches to software development. I have produced a Trello template for other in my branch to use. I have ran workshops to share how Agile and Scrum can be a benefit. 
 >
 >  As part of the development of Information Systems Plans, I meet with Executive to review their business focus, and to discuss the IM/IT needs along with the funding requirements of their branch from a broad perspective. I have to prepare business cases and make a case for why the project is important. I have assisted in long term planning by providing forecasting estimates used in Cabinet submissions for Capital money and have been consistently successful in achieving the desired goal.
 
@@ -99,6 +99,10 @@ _ISL 27R - Senior Scrum Master (Technical), Requisition: 40935_
 
 
 
-Author: Matthew Hall</br>
-Date: 2017-05-08</br>
-version: 1.01.00
+Thank you for your time in reviewing my cover letter and resume.
+I am looking forward to an opportunity to further discuss my qualifications.
+
+
+| Author        | Date        | version |
+| ---           | ---         | ---     |
+| Matthew Hall  | 2017-05-08  | 1.01.00 |
