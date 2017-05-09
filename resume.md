@@ -17,6 +17,8 @@
 	* Built a product roadmap for the completion of a Carbon Credit Trading system
 	* Produced and currently maintain the [TFRS task board](https://trello.com/b/O9L8CXes/transportation-fuels-reporting-system) 
 	  using Trello as a tool to assist with the facilitation of project planning sessions (Scrum ceremonies)
+	* Organizing System Documentation through the [project wiki](https://github.com/bcgov/tfrs/wiki/) 
+	  in order to facilitate collaboration 
 	
 
 ## Business Portfolio Manager, Business Analyst and Project Manager:
@@ -159,38 +161,39 @@
 |  Project Management 250, 		| Advanced MS Project, 		| BC PSA 			| (2007) |
 |  Object-Oriented Analysis,		| Design for Java Technologies	| Exit Certified 		| (2006) |
 
-# Experience Areas 
-| **Area**							|**# of years** |
-| --- 								| --- 		|
-| Scrum								|	3  	|
-| Coaching Development Teams					|	9	|
-| Continuous Deployment						|	3	|
-| Support of Java/Oracle Systems				|	10	|
-| Support of .NET/SQL Systems					|	6	| 
-| Support of Django, Postgres system				|	<1	|
-| OpenShift tools Jenkins, Schema Spy, SonarQube, and NavUnit  	| 	<1	|
-| Business Analysis 						|	10	|
-| Project Management						|	9	|
-| Strategic Planning						|	5	|
-| Procurement/Contracts						|	9	|
-| Needs Assessment						|	7	|
-| Business Cases						|	2	|
-| Decision Notes						|	3	|	
+# Knowledge, Skills and Abilities 
+| **Area**					|**# of years** |
+| --- 						| --- 		|
+| Scrum						|	3  	|
+| Coaching Development Teams			|	9	|
+| Continuous Deployment				|	3	|
+| System Maintenance / Support			|	10	|
+| DevOps 				  	| 	<1	|
+| Business Analysis 				|	10	|
+| Project Management				|	9	|
+| Strategic Planning				|	5	|
+| Procurement/Contracts				|	9	|
+| Needs Assessment				|	7	|
+| Business Cases				|	2	|
+| Decision Notes				|	3	|	
 
-# Technology Experience
-| **Area**							|**# of years** | 
-| --- 								| --- 		|
-| HTML/CSS/JavaScript						|	7	| 
-| Git Bash/Github						|	1	| 
-| API Specs/Swagger						|	1	| 
-| Bootstrap Prototyping						|	1	| 
-| UML and BPMN 2						|	4	| 
-| SharePoint							|	10	| 
-| JIRA/Trello							|	1	| 
-| PL SQL Developer						|	4	| 
+# Technology Knowledge Areas
+| **Area**					|**# of years** | 
+| --- 						| --- 		|
+| HTML/CSS/JavaScript				|	7	| 
+| Bootstrap Prototyping				|	1	| 
+| Git Bash/Github				|	1	| 
+| API Specs/Swagger				|	1	| 
+| UML and BPMN 2				|	4	|
+| Django/Python/Postgresql			|	<1	| 
+| SharePoint					|	10	| 
+| JIRA/Trello					|	1	| 
+| Java/Oracle					|	10	| 
+| .NET/SQL					|	6	|
+| PL SQL Developer				|	4	|
 
 
-# INDUSTRY KNOWLEDGE	
+# Industry Knowledge	
 -	Low Carbon Fuels
 -	Mines and Mineral Resources
 -	Natural Gas Development
@@ -205,3 +208,7 @@
 # Footnotes and References:
 1.	Professional Scrum Master Certification, Scrum.org, https://www.scrum.org/user/245848 
 2.	Associates Certificate in Business Analysis, McMaster University, http://www.globalknowledge.ca/training/certification_listing.asp?pageid=59&certid=890 
+3.	View formatted Resume on GitHub: 
+	[resume.md](https://github.com/matthewhall78/hello-world/blob/master/resume.md)
+4.	View formatted Cover Letter on GitHub: 
+	[coverLetter.md](https://github.com/matthewhall78/hello-world/blob/master/coverLetter.md)
