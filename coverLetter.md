@@ -95,12 +95,19 @@ _ISL 27R - Senior Scrum Master (Technical), Requisition: 40935_
 ## Managing teams of professionals
 > since 2007 I have been leading many teams of professionals in the support and maintenance of software and in the development of new software applications. I have worked to ensure the team produced quality outcomes, and as needed I would have those challenging conversations with team members who were not meeting expectations. 
 >
-> In managing these teams I provided coaching and direction for the team to support their efforts to learn and follow the BC Government culture, standards and processes.
+> In managing these teams I provided coaching and direction for the team to support their efforts to learn and follow the BC Government culture, standards and processes.   
+  
+  
+  
+_Thank you for your time in reviewing my cover letter and resume.
+I am looking forward to an opportunity to further discuss my qualifications._
 
 
+> View formatted Resume on GitHub: 
+	[resume.md](https://github.com/matthewhall78/hello-world/blob/master/resume.md)   
+>	View formatted Cover Letter on GitHub: 
+	[coverLetter.md](https://github.com/matthewhall78/hello-world/blob/master/coverLetter.md)
 
-Thank you for your time in reviewing my cover letter and resume.
-I am looking forward to an opportunity to further discuss my qualifications.
 
 
 | Author        | Date        | version |
