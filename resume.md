@@ -15,6 +15,8 @@
 	  hire a back-end developer, to build an API, back-end code, and database, 
 	* Gained knowledge in the use of related DevOps pipeline tools and Scrum tools
 	* Built a product roadmap for the completion of a Carbon Credit Trading system
+	* Produced and currently maintain the [TFRS task board](https://trello.com/b/O9L8CXes/transportation-fuels-reporting-system) 
+	  using Trello as a tool to assist with the facilitation of project planning sessions (Scrum ceremonies)
 	
 
 ## Business Portfolio Manager, Business Analyst and Project Manager:
@@ -39,10 +41,10 @@
 		- Lead BPM for the Coal Titles Sub project of MMRASI
 		  to replace the MiDA Mainframe system and linkage to NRPP common components
 - Responsible for leading information system's planning with business areas (4 yrs)
-	* Assessing the current state of the business and its supporting systems
-	* Collaboratively developing business cases for the application vision
-	* Reviewing with Executive the technical health and business value of their systems
-	* Forecasting requests for capital and operational funding to support the future state
+	* Completed Assessments of the current state of the business and its supporting systems
+	* Collaboratively developed business cases for the application vision
+	* Reviewed with Executive the technical health and business value of their systems
+	* Forecasted requests for capital and operational funding to support the future state
 - Experience in procurement, contract & budget management: (April 2007 - Present, 8 yrs)
 	* Planning, writing and evaluating procurement documents, including RFPs
 	* Preparing quarterly and annual budget forecasts for Executive
@@ -57,12 +59,12 @@
 		- Managed communications across multiple Ministries for all affected systems
 		- Communication about project priority was shared with Executive in order 
 		  to ensure that we had secure resourcing in order to complete on time 
-- Experience in the supervision of staff: (April 2012 to Present, 3 yrs)
+- Experience managing a team of professionals: (April 2012 to Present, 3 yrs)
 	* Providing backup supervision of staff in the work section including: 
 		- Mentoring 1 staff member on all HR related matters, with understanding of the Collective Agreement (3 years)
 		- Coaching 1 staff member in career planning, resume planning, and 
 		  approaches to handle workplace concerns, as well as sensitive personal issues (3 years)
-	* Directing contractor teams for the MMRASI capital project (Dec 2013 to present)
+	* Directing the work of contractor teams for the MMRASI capital project (Dec 2013 to present)
 	* Supervising contractor teams to support the maintenance of software (since April 2007)
 		- Setting performance expectations and monitoring the performance
 		- Providing timely, direct feedback as recognition for work that exceeds the standards, 
