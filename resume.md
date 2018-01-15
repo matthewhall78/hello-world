@@ -4,25 +4,50 @@
 
 # Experience
  
-## Scrum Master:
-### Corporate Services for Natural Resources, Information Mgmt Branch – Oct 2016 to Present
-- Transportation Fuels Reporting System (0.5 years in Scrum, 2 yrs previous in waterfall)
-	* Created paper prototypes with the Product Owner
-	* Developed the first set of screens using Bootstrap (HTML/CSS/JS)
-	* Mentoring Product Manager in Scrum
-	* Completed 2 vendor community opportunities using the Code-with-Us program from BC Dev Exchange to 
-	  hire a front-end developer for the creation of mockups and prototypes, and then to
-	  hire a back-end developer, to build an API, back-end code, and database, 
-	* Gained knowledge in the use of related DevOps pipeline tools and Scrum tools
-	* Built a product roadmap for the completion of a Carbon Credit Trading system
-	* Produced and currently maintain the [TFRS task board](https://trello.com/b/O9L8CXes/transportation-fuels-reporting-system) 
-	  using Trello as a tool to assist with the facilitation of project planning sessions (Scrum ceremonies)
-	* Organizing System Documentation through the [project wiki](https://github.com/bcgov/tfrs/wiki/) 
-	  in order to facilitate collaboration 
+## Product Owner:
+### Corporate Services for Natural Resources, Information Mgmt Branch – Jan 2018 to Present  
+
+- Document Management Onboarding Demo
+	* Participated in a 3 day hackathon with 12 individuals to solve a complex and longstanding roadblock, that many projects currently face, connecting to the Ministry infrastructure to use their common software components when calling upon them from applications deployed in the OpenShift Container Platform
+	* Lead the team as the [Product Owner](http://www.scrumguides.org/scrum-guide.html#team-po) 
+	* Established the vision and a priortized backlog for the product
+	* Produced acceptance criteria
+	* Review product deliverables and signed off on completion according to the established Definition of Done
+	* Documented the [DMOD product](https://github.com/bcgov/csnr-dmod/wiki/) and described the results of the hackathon on the github wiki, [3 Day Hackathon Results](https://github.com/bcgov/csnr-dmod/wiki/3-day-Hackathon#results)  
 	
+## Sr. Scrum Master:
+### Corporate Services for Natural Resources, Information Mgmt Branch – Oct 2016 to Present  
+
+- Transportation Fuels Reporting System (1.5 years in Scrum, 2 yrs previous in waterfall)  
+	* Transitioned the project from a Waterfall development methodology to an Agile methodology
+	* Before we had a full time team assigned, the Product Owner and I performed all of the roles for the Scrum Team
+	     * Created prototypes with the Product Owner  
+	     * Developed the first set of screens using Bootstrap (HTML/CSS/JS)  
+	     * Mentored 3 Product Managers in the Scrum Methodology  
+	     * Completed 4 innovative procurements using the Code-with-Us program from BC Developers Exchange  
+	     * Gained expertise in the use of related DevOps pipeline tools and Scrum tools  
+	     * Built a product roadmap for the completion of a Low Carbon Fuel Credit Trading system  
+	     * Produced the [TFRS task board](https://trello.com/b/O9L8CXes/transportation-fuels-reporting-system) using Trello as a tool to assist with the facilitation of project planning sessions (Scrum ceremonies)  
+	     * Organizing System Documentation through the [project wiki](https://github.com/bcgov/tfrs/wiki/) in order to facilitate collaboration  
+	* Now with a full development team in place I am able to focus on the [core responsibilities of the Scrum Master](http://www.scrumguides.org/scrum-guide.html#team-sm)
+	     * Maintaining a Trello Board that models the use of Scrum and which can be used as an example for other teams
+	         * User stories are well written and appropriately sized
+		 * Stories have functional tests written for implementing Behaviour Driven Development tests
+		 * Code changes are linked to the user stories
+		 * Acceptance criteria are written and understand to the Product Owner
+		 * Story Points are assigned and the stories are given a category
+- Agile training and Lego4Scrum  (1.5 years)
+	* Facilitated 14 Lego4Scrum workshops with 3 more scheduled in January/February timeframe  
+	* Collaborated with the BC Developer's Exchange in the development of training curriculum for new agile teams  
+	* Producing a collection of training materials and documentation to assist new agile teams https://github.com/bcgov/agile-sdlc/wiki  
+- Scrum Master Guild  (0.5 years)
+	* I Reached out to all Scrum Master across government and extended an invite to form a Guild
+	* I established a regular meeting schedule and facilitated the first few until we established a rotating Chair
+	* Created a Trello Board to collect backlog items and discuss how we can all work together to produce solutions that would benefit all our projects
 
 ## Business Portfolio Manager, Business Analyst and Project Manager:
-### Corporate Services for Natural Resources, Information Mgmt Branch – Apr 2007 to Present
+### Corporate Services for Natural Resources, Information Mgmt Branch – Apr 2007 to Present  
+
 - Knowledge and experience with change management processes and project management methodologies (8 yrs)
 	* Lead Business Portfolio Manager 
 	  on the Mines & Mineral Resources Automation & System Integration (MMRASI) project (Jan 2014 to Present)
@@ -115,42 +140,49 @@
 
 
 ## Junior Business Analyst:
-### Ministry of Attorney General, ITSD – May 2006 to Mar 2007
+### Ministry of Attorney General, ITSD – May 2006 to Mar 2007  
+
 - Lead the identification, implementation and documentation of project management 
   activities associated with the deployment of software releases
 - Participated in the development of the Strategic IT Planning process, now adopted as 
   a standard for all of Government (System Health Check)
 - Created executive summaries of the Strategic IT Plans for presentations to the Executive
 
-### Ministry of Transportation, Information Systems Branch – Sep 2005 to Apr 2006
+### Ministry of Transportation, Information Systems Branch – Sep 2005 to Apr 2006  
+
 - Coordinated hardware, software and security services
 - Provided support and assistance to the staff for day to day activities and project
 - Coordinated the replacement of all workstations for Ministry of Transportation Headquarters
 
 
 ## Website Developer:
-### Ministry of Public Safety, Gaming Policy & Enforcement – Jun to Aug 2005
+### Ministry of Public Safety, Gaming Policy & Enforcement – Jun to Aug 2005   
+
 - Developed the internet website (http://www.pssg.gov.bc.ca/gaming/) to government standards 
 - Developed custom graphics, site map, naming conventions, navigation strategy, 
   technical requirements, test plan, and a Requirements Document
 
 # Education & Professional Development
-## University and College Credentials
+## University and College Credentials  
+
 | **Name**				| **Description**		| **School**			|**Date**|
 | --- 					| --- 				| --- 				| ---    |
 | Bachelor of Science Degree 		| Computer Science & Psychology	| University of Victoria    	| (2010) |
 | Associate Certificate, Diploma	| Business Admin, ebusiness	| Camosun College 		| (2002) |
 
-## Professional Certification
+## Professional Certification  
+
 | **Name**				| **Description**		| **School**			|**Date**|
 | --- 					| --- 				| --- 				| ---    |
-|  Scrum Master Certificate		| PSM 1				| Scrum.Org			| (2017) | 
+| Certified Scrum Master		| CSM via Scrum Alliance	| Number 41 Media		| (2017) |
+| Professional Scrum Master Certificate	| PSM 1				| Scrum.Org			| (2017) | 
 | Associate Cert. in Business Analysis 	| Use Case Modelling		| Global Knowledge		| (2016) |
 | Associate Cert. in Business Analysis 	| Requirements Development	| Global Knowledge 		| (2013) |
 | Associate Cert. in Business Analysis 	| BA  Essentials		| Global Knowledge 		| (2012) |
 | Associate Cert. in Business Analysis 	| IT Project Management		| Global Knowledge		| (2011) |
 
-## Other Courses
+## Other Courses   
+
 | **Name**				| **Description**		| **School**			|**Date**|
 | --- 					| --- 				| --- 				| ---    |
 |  Lean 301,				| Becoming Lean,		| Public Service Agency		| (2016) |
@@ -161,39 +193,43 @@
 |  Project Management 250, 		| Advanced MS Project, 		| BC PSA 			| (2007) |
 |  Object-Oriented Analysis,		| Design for Java Technologies	| Exit Certified 		| (2006) |
 
-# Knowledge, Skills and Abilities 
+# Knowledge, Skills and Abilities   
+
 | **Area**					|**# of years** |
 | --- 						| --- 		|
-| Scrum						|	3  	|
-| Coaching Development Teams			|	9	|
-| Continuous Deployment				|	3	|
-| System Maintenance / Support			|	10	|
-| DevOps 				  	| 	<1	|
-| Business Analysis 				|	10	|
-| Project Management				|	9	|
-| Strategic Planning				|	5	|
-| Procurement/Contracts				|	9	|
-| Needs Assessment				|	7	|
+| Business Analysis 				|	11	|
 | Business Cases				|	2	|
 | Decision Notes				|	3	|	
+| Coaching in Scrum				|	10	|
+| Continuous Deployment				|	4	|
+| DevOps 				  	| 	1	|
+| Procurement/Contracts				|	10	|
+| Project Management				|	9	|
+| Needs Assessment				|	7	|
+| Scrum						|	4  	|
+| Strategic Planning				|	6	|
+| System Maintenance / Support			|	11	|
+| Workshop Facilitation	(Lego4Scrum Events)	|	1.5	|
 
-# Technology Knowledge Areas
+# Technology Knowledge Areas  
+
 | **Area**					|**# of years** | 
 | --- 						| --- 		|
-| HTML/CSS/JavaScript				|	7	| 
-| Bootstrap Prototyping				|	1	| 
-| Git Bash/Github				|	1	| 
-| API Specs/Swagger				|	1	| 
-| UML and BPMN 2				|	4	|
-| Django/Python/Postgresql			|	<1	| 
-| SharePoint					|	10	| 
-| JIRA/Trello					|	1	| 
-| Java/Oracle					|	10	| 
+| API Specs/Swagger				|	2	| 
+| Behaviour Driven Development			|	1	|
+| Bootstrap Prototyping				|	2	| 
+| Django/Python/Postgresql			|	1	| 
+| Git Bash/Github				|	2	| 
+| HTML/CSS/JavaScript				|	8	| 
+| Issue Tracking (JIRA/Trello)			|	2	|
+| Java/Oracle					|	11	| 
 | .NET/SQL					|	6	|
 | PL SQL Developer				|	4	|
+| SharePoint					|	11	| 
+| UML and BPMN 2				|	4	|
 
+# Industry Knowledge  
 
-# Industry Knowledge	
 -	Low Carbon Fuels
 -	Mines and Mineral Resources
 -	Natural Gas Development
@@ -205,10 +241,12 @@
 -	Transportation
 -	Gaming Policy	
 
-# Footnotes and References:
-1.	Professional Scrum Master Certification, Scrum.org, https://www.scrum.org/user/245848 
-2.	Associates Certificate in Business Analysis, McMaster University, http://www.globalknowledge.ca/training/certification_listing.asp?pageid=59&certid=890 
-3.	View formatted Resume on GitHub: 
+# Footnotes and References:  
+
+1. Certified ScrumMaster, https://www.scrumalliance.org/community/profile/mhall78	
+2. Professional Scrum Master Certification, Scrum.org, https://www.scrum.org/user/245848 
+3.	Associates Certificate in Business Analysis, McMaster University, http://www.globalknowledge.ca/training/certification_listing.asp?pageid=59&certid=890 
+4.	View formatted Resume on GitHub: 
 	[resume.md](https://github.com/matthewhall78/hello-world/blob/master/resume.md)
-4.	View formatted Cover Letter on GitHub: 
+5.	View formatted Cover Letter on GitHub: 
 	[coverLetter.md](https://github.com/matthewhall78/hello-world/blob/master/coverLetter.md)
