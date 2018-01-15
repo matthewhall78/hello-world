@@ -46,7 +46,7 @@
 	* Created a Trello Board to collect backlog items and discuss how we can all work together to produce solutions that would benefit all our projects  
 
 ## Business Portfolio Manager, Business Analyst and Project Manager:
-### Corporate Services for Natural Resources, Information Mgmt Branch – Apr 2007 to Present  
+### Corporate Services for Natural Resources, Information Mgmt Branch – Apr 2007 to Jul 2017  
 
 - Knowledge and experience with change management processes and project management methodologies (8 yrs)  
 	* Lead Business Portfolio Manager   
