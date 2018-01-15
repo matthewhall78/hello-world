@@ -30,12 +30,12 @@
 	     * Produced the [TFRS task board](https://trello.com/b/O9L8CXes/transportation-fuels-reporting-system) using Trello as a tool to assist with the facilitation of project planning sessions (Scrum ceremonies)  
 	     * Organizing System Documentation through the [project wiki](https://github.com/bcgov/tfrs/wiki/) in order to facilitate collaboration  
 	* Now with a full development team in place I am able to focus on the [core responsibilities of the Scrum Master](http://www.scrumguides.org/scrum-guide.html#team-sm)
-	     * Maintaining a Trello Board that models the use of Scrum and which can be used as an example for other teams
-	         * User stories are well written and appropriately sized  
-		 * Stories have functional tests written for implementing Behaviour Driven Development tests  
-		 * Code changes are linked to the user stories  
-		 * Acceptance criteria are written and understand to the Product Owner  
-		 * Story Points are assigned and the stories are given a category  
+		* Maintaining a Trello Board that models the use of Scrum and which can be used as an example for other teams
+			* User stories are well written and appropriately sized  
+			* Stories have functional tests written for implementing Behaviour Driven Development tests  
+			* Code changes are linked to the user stories  
+			* Acceptance criteria are written and understand to the Product Owner  
+			* Story Points are assigned and the stories are given a category  
 - Agile training and Lego4Scrum  (1.5 years)  
 	* Facilitated 14 Lego4Scrum workshops with 3 more scheduled in January/February timeframe   
 	* Collaborated with the BC Developer's Exchange in the development of training curriculum for new agile teams  
