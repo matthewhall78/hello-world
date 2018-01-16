@@ -12,35 +12,15 @@ _BAND 3 - Director, Innovation Initiatives, Requisition: 46950_
 > I look for ways to build effective teams and partnerships between team members and external stakeholders.  
 > I am always looking ways to have a lasting positive impact on the organization and with each conversation I built trust and partnerships for that change.
 
-| **Experience** 					|**Years**|   | **Education** |
-| --- 								| --- 	  |---| ---			  |
-| Sr. Scrum Master 	(current)		| 1.5	  |   | Certified Scrum Master |
-| Business Portfolio Manager 	    | 6	      |   | Professional Scrum Master Certification (PSM 1) |
-| Project Manager, Business Analyst	| 9		  |   | Business Analysis - Associate Certification courses |
-| Junior Implementation Analyst		| 1.5	  |   | Bachelor of Science Degree, Computer Science/ Psychology |
-| Web Developer						| 3		  |   | Diploma in Business Administration, eBusiness and Information Systems  |
+| **Experience** 			|**Years**|	| **Education**	|
+| --- 					| --- 	  |---	| ---		|
+| Sr. Scrum Master (current)		| 1.5	  |	| Certified Scrum Master |
+| Business Portfolio Manager		| 6	  |	| Professional Scrum Master Certification (PSM 1) |
+| Project Manager, Business Analyst	| 9	  |	| Business Analysis - Associate Certification courses |
+| Junior Implementation Analyst		| 1.5	  |	| Bachelor of Science Degree, Computer Science/ Psychology |
+| Web Developer				| 3	  |	| Diploma in Business Administration, eBusiness and Information Systems  |
 
 # Areas of Experience
-
-/*## Collaboration with clients, development teams, and senior leadership  
-
-> 
-
-## Overcoming public sector challenges and barriers to innovation
-
-> 
-
-## Management of large-scale projects in an agile environment
-
-> 
-
-## Helping other achieve their goals, and connecting people to solutions
-
-> 
-
-## Understands the connection between the BC Public Service Values and the drive for innovation
-
-> */
 
 ## Degree in business administration, public administration, communications or a related field or equivalent  
 
@@ -160,6 +140,6 @@ I am looking forward to an opportunity to further discuss my qualifications._
 
 
 
-| Author        | Date        | version |
-| ---           | ---         | ---     |
-| Matthew Hall  | 2017-05-08  | 1.01.00 |
+| Author        | Date        |
+| ---           | ---         |
+| Matthew Hall  | 2018-01-15  |
