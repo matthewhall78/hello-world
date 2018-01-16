@@ -3,7 +3,7 @@
 **(250) 896-4059 | mmhall@gmail.com**
 
 ### **Cover Letter for:**
-_ISL 27R - Senior Scrum Master (Technical), Requisition: 40935_
+_BAND 3 - Director, Innovation Initiatives, Requisition: 46950_
 
 > I am a natural leader with the ability to develop and implement plans for complex projects.  
 > When leading teams, I make decisions that improve effective utilization of resources for the organization.   
@@ -12,17 +12,63 @@ _ISL 27R - Senior Scrum Master (Technical), Requisition: 40935_
 > I look for ways to build effective teams and partnerships between team members and external stakeholders.  
 > I am always looking ways to have a lasting positive impact on the organization and with each conversation I built trust and partnerships for that change.
 
-| **Experience** 					          |**Years**| **Education** |
-| --- 								              | --- 	  | ---			      |
-| Scrum Master 	(current)			      | <1		  | Professional Scrum Master Certification (PSM 1) |
-| Business Portfolio Manager 		    | 6	      | Business Analysis - Associate Certification courses |
-| Project Manager, Business Analyst	| 9		    | Bachelor of Science Degree, Computer Science/ Psychology |
-| Junior Implementation Analyst 	  | 1.5		  | Diploma in Business Administration, eBusiness and Information Systems |
-| Web Developer						          | 3		    |               |
+| **Experience** 					|**Years**|   | **Education** |
+| --- 								| --- 	  |---| ---			  |
+| Sr. Scrum Master 	(current)		| 1.5	  |   | Certified Scrum Master |
+| Business Portfolio Manager 	    | 6	      |   | Professional Scrum Master Certification (PSM 1) |
+| Project Manager, Business Analyst	| 9		  |   | Business Analysis - Associate Certification courses |
+| Junior Implementation Analyst		| 1.5	  |   | Bachelor of Science Degree, Computer Science/ Psychology |
+| Web Developer						| 3		  |   | Diploma in Business Administration, eBusiness and Information Systems  |
 
 # Areas of Experience
 
-## Agile project or service design experience 
+/*## Collaboration with clients, development teams, and senior leadership  
+
+> 
+
+## Overcoming public sector challenges and barriers to innovation
+
+> 
+
+## Management of large-scale projects in an agile environment
+
+> 
+
+## Helping other achieve their goals, and connecting people to solutions
+
+> 
+
+## Understands the connection between the BC Public Service Values and the drive for innovation
+
+> */
+
+## Degree in business administration, public administration, communications or a related field or equivalent  
+
+> 
+
+## Experience at a senior level leading major projects of large scale and complexity that have multiple project delivery components  
+
+> 
+
+## Experience establishing collaborative relationships with executives and leading organizational change associated with implementation in a public service context   
+
+> 
+
+## Experience leading and coaching multi-disciplinary senior level professionals and/or managers in the development and implementation of complex projects  
+
+> 
+
+## Experience in business planning, contract management, financial management, and negotiations   
+
+> 
+
+## Ability to travel across the province of B.C. to support the Innovation Hub   
+
+> 
+
+
+## Agile project or service design experience  
+
 > I have 10 years experience coaching and mentoring the software product owners and development teams in the software development framework used in the organization. 
 > 
 > For all projects I have work on I have set up tools and techniques for the product owner to effectively manage their backlog of work including tracking status of done, priority, estimated effort, and assigned resources. For the past 6 months I have been coaching a Product Owner in an organizational environment where Scrum is not yet fully understood.
@@ -31,14 +77,16 @@ _ISL 27R - Senior Scrum Master (Technical), Requisition: 40935_
 > 
 > I have participated as a team member in a series of Service Design workshops for the Future State Transformation of BC’s Mines Permitting Services.
 
-## Practical experience in Agile software development methodologies
+## Practical experience in Agile software development methodologies  
+
 > While the SDLC standard that my organization previously subscribed to is Waterfall, I was trained in University in the benefits of the various Agile software development methodologies and would employ those theories, practices, and rules in the projects I led wherever possible. One area that we were able to operate in a more agile manner was while our systems were in maintenance mode and after the waterfall project had completed.   
 >   
 > Since 2007 I have had a role similar to that of a Scrum Master providing coaching and mentoring for development teams and their respective product owner (referred to as an application administrator). I have usually been assigned between 3 to 7 software products at one time. During this time I have participated both in a coaching role for the team as well as being a member of the development team, assisting in defining the contents of time-boxed release cycles. I have worked side by side developers as they reviewed their code. I have conducted various types of testing and created test plans for the items being developed. I have promoted feature driven development approaches in order to maximize the value of the development team. We have also employed the use of the MoSCoW (Must, Should, Could, Won’ts) approach as described in Dynamic Systems Development Method.   
 >   
 > I have always been an advocate for change in my organization and including experimenting with more agile and lightweight approaches to software development. One example was that I was the Chair of a lightweight development community of practice, to help government staff produce small desktop productivity applications with the help of a Development Team expert that we brought in on contract to do a few sprints with the government staff. These staff employees were given mentoring in the processes and tools required to create a solution in a short timeline. And the knowledge and instruction that we provided to each team was collected into a SharePoint site archive as a set of lessons that others could draw from.
 
-## Experience coaching staff and project teams
+## Experience coaching staff and project teams  
+
 > I have facilitated many project and scrum events for the development team as needed, and have encouraged them to be self-organizing and accountable for the work they deliver. I have supported the development team by resolving project impediments for the team through frequent interaction with the organization.
 > 
 > For the past year I have been leading and coaching a team of Business Portfolio Managers in the organization that is now adopting Scrum. This has included helping them understand and enact Scrum and empirical product development.
