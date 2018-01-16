@@ -22,10 +22,6 @@ _BAND 3 - Director, Innovation Initiatives, Requisition: 46950_
 
 # Areas of Experience
 
-## Degree in business administration, public administration, communications or a related field or equivalent  
-
-> 
-
 ## Experience at a senior level leading major projects of large scale and complexity that have multiple project delivery components  
 
 > 
@@ -45,6 +41,8 @@ _BAND 3 - Director, Innovation Initiatives, Requisition: 46950_
 ## Ability to travel across the province of B.C. to support the Innovation Hub   
 
 > 
+
+// will need to redo this letter completely.
 
 
 ## Agile project or service design experience  
@@ -71,7 +69,7 @@ _BAND 3 - Director, Innovation Initiatives, Requisition: 46950_
 > 
 > For the past year I have been leading and coaching a team of Business Portfolio Managers in the organization that is now adopting Scrum. This has included helping them understand and enact Scrum and empirical product development.
 >
-> I have co-facilitated five Lego4Scrum workshops to begin training the organization in scrum and agile principles.
+> I have co-facilitated 14 Lego4Scrum workshops to begin training the organization in scrum and agile principles.
 
 ## Knowledge of web development, and UI best practices
 > I have 10 years experience supporting and managing development teams in the creation of web applications. For my whole career I have been involved in collaborating with teams across government in regards to best practices for User Interface Design and Web Media solutions.  
