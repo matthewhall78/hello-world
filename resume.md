@@ -18,30 +18,31 @@
 ## Sr. Scrum Master:
 ### Corporate Services for Natural Resources, Information Mgmt Branch – Oct 2016 to Present  
 
-- Transportation Fuels Reporting System (1.5 years in Scrum, 2 yrs previous in waterfall)  
+- Transportation Fuels Reporting System (2 years in Agile, 2 yrs previous in waterfall)  
 	* Transitioned the project from a Waterfall development methodology to an Agile methodology
-	* Before we had a full time team assigned, the Product Owner and I performed all of the roles for the Scrum Team
-	     * Created prototypes with the Product Owner  
-	     * Developed the first set of screens using Bootstrap (HTML/CSS/JS)  
-	     * Mentored 3 Product Managers in the Scrum Methodology  
-	     * Completed 4 innovative procurements using the Code-with-Us program from BC Developers Exchange  
-	     * Gained expertise in the use of related DevOps pipeline tools and Scrum tools  
-	     * Built a product roadmap for the completion of a Low Carbon Fuel Credit Trading system  
-	     * Produced the [TFRS task board](https://trello.com/b/O9L8CXes/transportation-fuels-reporting-system) using Trello as a tool to assist with the facilitation of project planning sessions (Scrum ceremonies)  
-	     * Organizing System Documentation through the [project wiki](https://github.com/bcgov/tfrs/wiki/) in order to facilitate collaboration  
+	* Before we had a full time team assigned, the Product Owner and I performed all of the roles for the Scrum Team  
+		- Created prototypes with the Product Owner  
+		- Developed the first set of screens using Bootstrap (HTML/CSS/JS)  
+		- Mentored 3 Product Managers in the Scrum Methodology  
+		- Completed 4 innovative procurements using the Code-with-Us program from BC Developers Exchange
+		- Piloted the use of a software development coding challenge as part of an RFP for full stack developers
+		- Gained expertise in the use of related DevOps pipeline tools and Scrum tools  
+		- Built a product roadmap and release roadmap for the completion of a Low Carbon Fuel Credit Trading system  
+		- Produced the [TFRS task board](https://trello.com/b/O9L8CXes/transportation-fuels-reporting-system) using Trello as a tool to assist with the facilitation of project planning sessions (Scrum ceremonies)  
+		- Organizing System Documentation through the [project wiki](https://github.com/bcgov/tfrs/wiki/) in order to facilitate collaboration  
 	* Now with a full development team in place I am able to focus on the [core responsibilities of the Scrum Master](http://www.scrumguides.org/scrum-guide.html#team-sm)
-		* Maintaining a Trello Board that models the use of Scrum and which can be used as an example for other teams
+		- Maintaining a Trello Board that models the use of Scrum and which can be used as an example for other teams
 			* User stories are well written and appropriately sized  
 			* Stories have functional tests written for implementing Behaviour Driven Development tests  
 			* Code changes are linked to the user stories  
-			* Acceptance criteria are written and understand to the Product Owner  
-			* Story Points are assigned and the stories are given a category  
-- Agile training and Lego4Scrum  (1.5 years)  
-	* Facilitated 14 Lego4Scrum workshops with 3 more scheduled in January/February timeframe   
+			* Acceptance criteria are written and understood by the Product Owner  
+			* User Stories are assigned story points and labelled with a theme
+- Agile training and Lego4Scrum  (2 years)  
+	* Facilitated 21 Lego4Scrum workshops (reaching over 300 individuals) with 4 more scheduled in July 2018 timeframe   
 	* Collaborated with the BC Developer's Exchange in the development of training curriculum for new agile teams  
-	* Producing a collection of training materials and documentation to assist new agile teams https://github.com/bcgov/agile-sdlc/wiki   
-- Scrum Master Guild  (0.5 years)  
-	* I Reached out to all Scrum Master across government and extended an invite to form a Guild  
+	* Produced a collection of training materials and documentation to assist new agile teams https://github.com/bcgov/agile-sdlc/wiki   
+- Scrum Master Guild  (1 year)  
+	* I reached out to all Scrum Master across government and extended an invite to form a Guild  
 	* I established a regular meeting schedule and facilitated the first few until we established a rotating Chair  
 	* Created a Trello Board to collect backlog items and discuss how we can all work together to produce solutions that would benefit all our projects  
 
@@ -174,6 +175,7 @@
 
 | **Name**				| **Description**		| **School**			|**Date**|
 | --- 					| --- 				| --- 				| ---    |
+| Certified Scrum Product Owner		| CSPO via Scrum Alliance	| Alluvial Consulting		| (2018) |
 | Certified Scrum Master		| CSM via Scrum Alliance	| Number 41 Media		| (2017) |
 | Professional Scrum Master Certificate	| PSM 1				| Scrum.Org			| (2017) | 
 | Associate Cert. in Business Analysis 	| Use Case Modelling		| Global Knowledge		| (2016) |
@@ -197,19 +199,19 @@
 
 | **Area**					|**# of years** |
 | --- 						| --- 		|
-| Business Analysis 				|	11	|
+| Business Analysis 				|	12	|
 | Business Cases				|	2	|
 | Decision Notes				|	3	|	
-| Coaching in Scrum				|	10	|
-| Continuous Deployment				|	4	|
+| Coaching in Scrum				|	1	|
+| Continuous Integration/Deployment		|	4	|
 | DevOps 				  	| 	1	|
-| Procurement/Contracts				|	10	|
+| Lego4Scrum Facilitation			|	2	|
+| Procurement/Contracts				|	11	|
 | Project Management				|	9	|
 | Needs Assessment				|	7	|
 | Scrum						|	4  	|
 | Strategic Planning				|	6	|
-| System Maintenance / Support			|	11	|
-| Workshop Facilitation	(Lego4Scrum Events)	|	1.5	|
+| System Maintenance / Support			|	12	|
 
 # Technology Knowledge Areas  
 
@@ -218,14 +220,14 @@
 | API Specs/Swagger				|	2	| 
 | Behaviour Driven Development			|	1	|
 | Bootstrap Prototyping				|	2	| 
-| Django/Python/Postgresql			|	1	| 
+| React/Django/Python/Postgresql		|	1	| 
 | Git Bash/Github				|	2	| 
 | HTML/CSS/JavaScript				|	8	| 
-| Issue Tracking (JIRA/Trello)			|	2	|
-| Java/Oracle					|	11	| 
+| Issue Tracking (JIRA/Trello)			|	3	|
+| Java/Oracle					|	12	| 
 | .NET/SQL					|	6	|
 | PL SQL Developer				|	4	|
-| SharePoint					|	11	| 
+| SharePoint					|	12	| 
 | UML and BPMN 2				|	4	|
 
 # Industry Knowledge  
@@ -243,7 +245,8 @@
 
 # Footnotes and References:  
 
-1. Certified ScrumMaster, https://www.scrumalliance.org/community/profile/mhall78	
+0. Certified Scrum Product Owner, https://www.scrumalliance.org/community/profile/mhall78
+1. Certified Scrum Master, https://www.scrumalliance.org/community/profile/mhall78	
 2. Professional Scrum Master Certification, Scrum.org, https://www.scrum.org/user/245848  
 3.	Associates Certificate in Business Analysis, McMaster University, http://www.globalknowledge.ca/training/certification_listing.asp?pageid=59&certid=890   
 4.	View formatted Resume on GitHub:
