@@ -16,7 +16,7 @@
 	* Documented the [DMOD product](https://github.com/bcgov/csnr-dmod/wiki/) and described the results of the hackathon on the github wiki, [3 Day Hackathon Results](https://github.com/bcgov/csnr-dmod/wiki/3-day-Hackathon#results)  
 	
 ## Sr. Scrum Master:
-### Corporate Services for Natural Resources, Information Mgmt Branch – Oct 2016 to Present  
+### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section – Oct 2016 to Present  
 
 - Transportation Fuels Reporting System (2 years in Agile, 2 yrs previous in waterfall)  
 	* Transitioned the project from a Waterfall development methodology to an Agile methodology
@@ -30,11 +30,11 @@
 		- Built a product roadmap and release roadmap for the completion of a Low Carbon Fuel Credit Trading system  
 		- Produced the [TFRS task board](https://trello.com/b/O9L8CXes/transportation-fuels-reporting-system) using Trello as a tool to assist with the facilitation of project planning sessions (Scrum ceremonies)  
 		- Organizing System Documentation through the [project wiki](https://github.com/bcgov/tfrs/wiki/) in order to facilitate collaboration  
-	* Now with a full development team in place I am able to focus on the [core responsibilities of the Scrum Master](http://www.scrumguides.org/scrum-guide.html#team-sm)
-		- Maintaining a Trello Board that models the use of Scrum and which can be used as an example for other teams
-			* User stories are well written and appropriately sized  
-			* Stories have functional tests written for implementing Behaviour Driven Development tests  
-			* Code changes are linked to the user stories  
+	* Now with a full development team in place I am able to focus on the [core responsibilities of the Scrum Master](http://www.scrumguides.org/scrum-guide.html#team-sm)  
+		- Coach the Scrum team and Product Owner in Agile/Scrum values, principles and practices including the following:  
+			* User stories are focused on a feature, assigned story points and split to an appropriate size   
+			* Stories have automated tests written (Test Driven Development and Functional Testing)  
+			* Code changes link to user stories  
 			* Acceptance criteria are written and understood by the Product Owner  
 			* User Stories are assigned story points and labelled with a theme
 - Agile training and Lego4Scrum  (2 years)  
