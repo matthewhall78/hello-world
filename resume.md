@@ -5,9 +5,11 @@
 # Experience
  
 ## Product Owner:
-### Corporate Services for Natural Resources, Information Mgmt Branch – Jan 2018 to Present  
+### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section  
 
-- Document Management Onboarding Demo
+- Transportation Fuels Reporting System (Nov 2018)
+	* (Acting) Product Owner for 1 month
+- Document Management Onboarding Demo (Jan 2018) 
 	* Participated in a 3 day hackathon with 12 individuals to solve a complex and longstanding roadblock, that many projects currently face, connecting to the Ministry infrastructure to use their common software components when calling upon them from applications deployed in the OpenShift Container Platform
 	* Lead the team as the [Product Owner](http://www.scrumguides.org/scrum-guide.html#team-po) 
 	* Established the vision and a priortized backlog for the product
@@ -16,14 +18,14 @@
 	* Documented the [DMOD product](https://github.com/bcgov/csnr-dmod/wiki/) and described the results of the hackathon on the github wiki, [3 Day Hackathon Results](https://github.com/bcgov/csnr-dmod/wiki/3-day-Hackathon#results)  
 	
 ## Sr. Scrum Master:
-### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section – Oct 2016 to Present  
+### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section – Oct 2016 to Oct 2018  
 
 - Premier Awards: 
 	* 2017 Regional Finalist in the Category of Innovation  
 		- For my contributions towards the introduction of Agile methods in the Information Management Branch  
 	* 2018 Finalist in the Category of Innovation  
 		- For my contributions towards the successful implementation of the Continuous Service Improvement Lab  
-- Transportation Fuels Reporting System (Oct 2016 to present)  
+- Transportation Fuels Reporting System (Oct 2016 to Oct 2018)  
 	* Transitioned the project from a Waterfall development methodology to an Agile methodology
 	* Created prototypes with the Product Owner  
 	* Developed the first set of screens using Bootstrap (HTML/CSS/JavaScript)  
