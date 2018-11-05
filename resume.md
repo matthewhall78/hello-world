@@ -18,6 +18,11 @@
 ## Sr. Scrum Master:
 ### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section – Oct 2016 to Present  
 
+- Premier Awards: 
+	* 2017 Regional Finalist in the Category of Innovation  
+		- For my contributions towards the introduction of Agile methods in the Information Management Branch  
+	* 2018 Finalist in the Category of Innovation  
+		- For my contributions towards the successful implementation of the Continuous Service Improvement Lab  
 - Transportation Fuels Reporting System (Oct 2016 to present)  
 	* Transitioned the project from a Waterfall development methodology to an Agile methodology
 	* Created prototypes with the Product Owner  
@@ -34,7 +39,8 @@
 		- Stories have automated tests written (Test Driven Development and Functional Testing)  
 		- Code changes link to user stories  
 		- Definition of done and acceptance criteria are written and understood by the Product Owner  
-- Agile training and Lego4Scrum  (2016 to present)  
+		- Challenge the team to deliver high quality working software to users each week
+- Agile training and Lego4Scrum  (2016 to present)    
 	* Facilitated 23 Lego4Scrum workshops (reaching over 350 individuals)   
 	* Collaborated with the BC Developer's Exchange in the development of training curriculum for new agile teams  
 	* Created an orientation package to assist new agile teams https://github.com/bcgov/agile-sdlc/wiki   
