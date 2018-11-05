@@ -32,14 +32,15 @@
 	* Piloted the use of a software development coding challenge as part of an RFP for full stack developers
 	* Gained in depth knowledge of Continuous Integration and Continous Deployment  
 	* Built a product roadmap and release roadmap for the completion of a Low Carbon Fuel Credit Trading system  
-	* Produced the [TFRS task board](https://trello.com/tfrs1) sprint planning and backlog refinement (Scrum ceremonies)  
+	* Produced the [TFRS task board](https://trello.com/tfrs1) for planning, review and backlog refinement  
 	* Organized Documentation on the [tfrs github wiki](https://github.com/bcgov/tfrs/wiki/)  
 	* Facilitated planning, review and retrospective meetings adhering to Scrum values, principles and practices:  
 		- User stories are focused on a feature, assigned story points and split to an appropriate size   
 		- Stories have automated tests written (Test Driven Development and Functional Testing)  
-		- Code changes link to user stories  
+		- Code changes link to user stories https://github.com/bcgov/tfrs/releases  
 		- Definition of done and acceptance criteria are written and understood by the Product Owner  
 		- Challenge the team to deliver high quality working software to users each week
+		- Encourage the team to collaborate with each other daily on achieving the sprint goal
 - Agile training and Lego4Scrum  (2016 to present)    
 	* Facilitated 23 Lego4Scrum workshops (reaching over 350 individuals)   
 	* Collaborated with the BC Developer's Exchange in the development of training curriculum for new agile teams  
