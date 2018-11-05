@@ -18,33 +18,29 @@
 ## Sr. Scrum Master:
 ### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section – Oct 2016 to Present  
 
-- Transportation Fuels Reporting System (2 years in Agile, 2 yrs previous in waterfall)  
+- Transportation Fuels Reporting System (Oct 2016 to present)  
 	* Transitioned the project from a Waterfall development methodology to an Agile methodology
-	* Before we had a full time team assigned, the Product Owner and I performed all of the roles for the Scrum Team  
-		- Created prototypes with the Product Owner  
-		- Developed the first set of screens using Bootstrap (HTML/CSS/JS)  
-		- Mentored 3 Product Managers in the Scrum Methodology  
-		- Completed 4 innovative procurements using the Code-with-Us program from BC Developers Exchange
-		- Piloted the use of a software development coding challenge as part of an RFP for full stack developers
-		- Gained expertise in the use of related DevOps pipeline tools and Scrum tools  
-		- Built a product roadmap and release roadmap for the completion of a Low Carbon Fuel Credit Trading system  
-		- Produced the [TFRS task board](https://trello.com/b/O9L8CXes/transportation-fuels-reporting-system) using Trello as a tool to assist with the facilitation of project planning sessions (Scrum ceremonies)  
-		- Organizing System Documentation through the [project wiki](https://github.com/bcgov/tfrs/wiki/) in order to facilitate collaboration  
-	* Now with a full development team in place I am able to focus on the [core responsibilities of the Scrum Master](http://www.scrumguides.org/scrum-guide.html#team-sm)  
-		- Coach the Scrum team and Product Owner in Agile/Scrum values, principles and practices including the following:  
-			* User stories are focused on a feature, assigned story points and split to an appropriate size   
-			* Stories have automated tests written (Test Driven Development and Functional Testing)  
-			* Code changes link to user stories  
-			* Acceptance criteria are written and understood by the Product Owner  
-			* User Stories are assigned story points and labelled with a theme
-- Agile training and Lego4Scrum  (2 years)  
-	* Facilitated 21 Lego4Scrum workshops (reaching over 300 individuals) with 4 more scheduled in July 2018 timeframe   
+	* Created prototypes with the Product Owner  
+	* Developed the first set of screens using Bootstrap (HTML/CSS/JavaScript)  
+	* Coached 3 Product Managers in the Scrum Methodology  
+	* Conducted 4 innovative contract procurements using the Code-with-Us program from BC Developers Exchange
+	* Piloted the use of a software development coding challenge as part of an RFP for full stack developers
+	* Gained in depth knowledge of Continuous Integration and Continous Deployment  
+	* Built a product roadmap and release roadmap for the completion of a Low Carbon Fuel Credit Trading system  
+	* Produced the [TFRS task board](https://trello.com/tfrs1) sprint planning and backlog refinement (Scrum ceremonies)  
+	* Organized Documentation on the [tfrs github wiki](https://github.com/bcgov/tfrs/wiki/)  
+	* Facilitated planning, review and retrospective meetings adhering to Scrum values, principles and practices:  
+		- User stories are focused on a feature, assigned story points and split to an appropriate size   
+		- Stories have automated tests written (Test Driven Development and Functional Testing)  
+		- Code changes link to user stories  
+		- Definition of done and acceptance criteria are written and understood by the Product Owner  
+- Agile training and Lego4Scrum  (2016 to present)  
+	* Facilitated 23 Lego4Scrum workshops (reaching over 350 individuals)   
 	* Collaborated with the BC Developer's Exchange in the development of training curriculum for new agile teams  
-	* Produced a collection of training materials and documentation to assist new agile teams https://github.com/bcgov/agile-sdlc/wiki   
-- Scrum Master Guild  (1 year)  
+	* Created an orientation package to assist new agile teams https://github.com/bcgov/agile-sdlc/wiki   
+- Scrum Master Guild  (2017 to present)  
 	* I reached out to all Scrum Master across government and extended an invite to form a Guild  
-	* I established a regular meeting schedule and facilitated the first few until we established a rotating Chair  
-	* Created a Trello Board to collect backlog items and discuss how we can all work together to produce solutions that would benefit all our projects  
+	* I facilitate guild meetings and collaboratively create agendas  
 
 ## Business Portfolio Manager, Business Analyst and Project Manager:
 ### Corporate Services for Natural Resources, Information Mgmt Branch – Apr 2007 to Jul 2017  
@@ -202,9 +198,9 @@
 | Business Analysis 				|	12	|
 | Business Cases				|	2	|
 | Decision Notes				|	3	|	
-| Coaching in Scrum				|	1	|
+| Coaching in Scrum				|	2	|
 | Continuous Integration/Deployment		|	4	|
-| DevOps 				  	| 	1	|
+| DevOps 				  	| 	2	|
 | Lego4Scrum Facilitation			|	2	|
 | Procurement/Contracts				|	11	|
 | Project Management				|	9	|
@@ -220,9 +216,9 @@
 | API Specs/Swagger				|	2	| 
 | Behaviour Driven Development			|	1	|
 | Bootstrap Prototyping				|	2	| 
-| React/Django/Python/Postgresql		|	1	| 
+| React/Django/Python/Postgresql		|	2	| 
 | Git Bash/Github				|	2	| 
-| HTML/CSS/JavaScript				|	8	| 
+| HTML/CSS/JavaScript				|	9	| 
 | Issue Tracking (JIRA/Trello)			|	3	|
 | Java/Oracle					|	12	| 
 | .NET/SQL					|	6	|
@@ -230,7 +226,7 @@
 | SharePoint					|	12	| 
 | UML and BPMN 2				|	4	|
 
-# Industry Knowledge  
+# Industry Knowledge Areas  
 
 -	Low Carbon Fuels  
 -	Mines and Mineral Resources  
