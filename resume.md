@@ -5,7 +5,7 @@
 # Experience
  
 ## Product Owner:
-### Corporate Services for Natural Resources, Information Mgmt Branch – Jan 2018 to Present  
+### Corporate Services for Natural Resources, Information Mgmt Branch – Jan 2019 to Present  
 
 - Document Management Onboarding Demo
 	* Participated in a 3 day hackathon with 12 individuals to solve a complex and longstanding roadblock, that many projects currently face, connecting to the Ministry infrastructure to use their common software components when calling upon them from applications deployed in the OpenShift Container Platform
@@ -16,7 +16,7 @@
 	* Documented the [DMOD product](https://github.com/bcgov/csnr-dmod/wiki/) and described the results of the hackathon on the github wiki, [3 Day Hackathon Results](https://github.com/bcgov/csnr-dmod/wiki/3-day-Hackathon#results)  
 	
 ## Sr. Scrum Master:
-### Corporate Services for Natural Resources, Information Mgmt Branch – Oct 2016 to Present  
+### Corporate Services for Natural Resources, Information Mgmt Branch – Oct 2016 to Jan 2019  
 
 - Transportation Fuels Reporting System (2 years in Agile, 2 yrs previous in waterfall)  
 	* Transitioned the project from a Waterfall development methodology to an Agile methodology
