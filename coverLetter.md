@@ -10,7 +10,7 @@ _IS30 - Product Owner, Expression of Interest_
 > I look for opportunities to help others learn how to plan, organize and co-ordinate the work more effectively.   
 > When conflicts occur I take an interest in the needs of others and use those opportunities as a chance for positive change.   
 > I look for ways to build effective teams and partnerships between team members and external stakeholders.  
-> I am always looking ways to have a lasting positive impact on the organization and with each conversation I built trust and partnerships for that change.
+> I am always looking for ways to have a lasting positive impact on the organization and with each conversation I built trust and partnerships for that change.
 
 | **Experience** 			|**Years**	| **Education** |  
 | ---					| --- 		| ---			      |  
