@@ -5,9 +5,11 @@
 # Experience
  
 ## Product Owner:
-### Corporate Services for Natural Resources, Information Mgmt Branch – Jan 2019 to Present  
+### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section  
 
-- Document Management Onboarding Demo
+- Transportation Fuels Reporting System (Nov 2018)
+	* (Acting) Product Owner for 1 month
+- Document Management Onboarding Demo (Jan 2018) 
 	* Participated in a 3 day hackathon with 12 individuals to solve a complex and longstanding roadblock, that many projects currently face, connecting to the Ministry infrastructure to use their common software components when calling upon them from applications deployed in the OpenShift Container Platform
 	* Lead the team as the [Product Owner](http://www.scrumguides.org/scrum-guide.html#team-po) 
 	* Established the vision and a priortized backlog for the product
@@ -16,35 +18,38 @@
 	* Documented the [DMOD product](https://github.com/bcgov/csnr-dmod/wiki/) and described the results of the hackathon on the github wiki, [3 Day Hackathon Results](https://github.com/bcgov/csnr-dmod/wiki/3-day-Hackathon#results)  
 	
 ## Sr. Scrum Master:
-### Corporate Services for Natural Resources, Information Mgmt Branch – Oct 2016 to Jan 2019  
+### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section – Oct 2016 to Oct 2018  
 
-- Transportation Fuels Reporting System (2 years in Agile, 2 yrs previous in waterfall)  
+- Premier Awards: 
+	* 2017 Regional Finalist in the Category of Innovation  
+		- For my contributions towards the introduction of Agile methods in the Information Management Branch  
+	* 2018 Finalist in the Category of Innovation  
+		- For my contributions towards the successful implementation of the Continuous Service Improvement Lab  
+- Transportation Fuels Reporting System (Oct 2016 to Oct 2018)  
 	* Transitioned the project from a Waterfall development methodology to an Agile methodology
-	* Before we had a full time team assigned, the Product Owner and I performed all of the roles for the Scrum Team  
-		- Created prototypes with the Product Owner  
-		- Developed the first set of screens using Bootstrap (HTML/CSS/JS)  
-		- Mentored 3 Product Managers in the Scrum Methodology  
-		- Completed 4 innovative procurements using the Code-with-Us program from BC Developers Exchange
-		- Piloted the use of a software development coding challenge as part of an RFP for full stack developers
-		- Gained expertise in the use of related DevOps pipeline tools and Scrum tools  
-		- Built a product roadmap and release roadmap for the completion of a Low Carbon Fuel Credit Trading system  
-		- Produced the [TFRS task board](https://trello.com/b/O9L8CXes/transportation-fuels-reporting-system) using Trello as a tool to assist with the facilitation of project planning sessions (Scrum ceremonies)  
-		- Organizing System Documentation through the [project wiki](https://github.com/bcgov/tfrs/wiki/) in order to facilitate collaboration  
-	* Now with a full development team in place I am able to focus on the [core responsibilities of the Scrum Master](http://www.scrumguides.org/scrum-guide.html#team-sm)
-		- Maintaining a Trello Board that models the use of Scrum and which can be used as an example for other teams
-			* User stories are well written and appropriately sized  
-			* Stories have functional tests written for implementing Behaviour Driven Development tests  
-			* Code changes are linked to the user stories  
-			* Acceptance criteria are written and understood by the Product Owner  
-			* User Stories are assigned story points and labelled with a theme
-- Agile training and Lego4Scrum  (2 years)  
-	* Facilitated 21 Lego4Scrum workshops (reaching over 300 individuals) with 4 more scheduled in July 2018 timeframe   
+	* Created prototypes with the Product Owner  
+	* Developed the first set of screens using Bootstrap (HTML/CSS/JavaScript)  
+	* Coached 3 Product Managers in the Scrum Methodology  
+	* Conducted 4 innovative contract procurements using the Code-with-Us program from BC Developers Exchange
+	* Piloted the use of a software development coding challenge as part of an RFP for full stack developers
+	* Gained in depth knowledge of Continuous Integration and Continous Deployment  
+	* Built a product roadmap and release roadmap for the completion of a Low Carbon Fuel Credit Trading system  
+	* Produced the [TFRS task board](https://trello.com/tfrs1) for planning, review and backlog refinement  
+	* Organized Documentation on the [tfrs github wiki](https://github.com/bcgov/tfrs/wiki/)  
+	* Facilitated planning, review and retrospective meetings adhering to Scrum values, principles and practices:  
+		- User stories are focused on a feature, assigned story points and split to an appropriate size   
+		- Stories have automated tests written (Test Driven Development and Functional Testing)  
+		- Code changes link to user stories https://github.com/bcgov/tfrs/releases  
+		- Definition of done and acceptance criteria are written and understood by the Product Owner  
+		- Challenge the team to deliver high quality working software to users each week
+		- Encourage the team to collaborate with each other daily on achieving the sprint goal
+- Agile training and Lego4Scrum  (2016 to present)    
+	* Facilitated 23 Lego4Scrum workshops (reaching over 350 individuals)   
 	* Collaborated with the BC Developer's Exchange in the development of training curriculum for new agile teams  
-	* Produced a collection of training materials and documentation to assist new agile teams https://github.com/bcgov/agile-sdlc/wiki   
-- Scrum Master Guild  (1 year)  
+	* Created an orientation package to assist new agile teams https://github.com/bcgov/agile-sdlc/wiki   
+- Scrum Master Guild  (2017 to present)  
 	* I reached out to all Scrum Master across government and extended an invite to form a Guild  
-	* I established a regular meeting schedule and facilitated the first few until we established a rotating Chair  
-	* Created a Trello Board to collect backlog items and discuss how we can all work together to produce solutions that would benefit all our projects  
+	* I facilitate guild meetings and collaboratively create agendas  
 
 ## Business Portfolio Manager, Business Analyst and Project Manager:
 ### Corporate Services for Natural Resources, Information Mgmt Branch – Apr 2007 to Jul 2017  
@@ -202,9 +207,9 @@
 | Business Analysis 				|	12	|
 | Business Cases				|	2	|
 | Decision Notes				|	3	|	
-| Coaching in Scrum				|	1	|
+| Coaching in Scrum				|	2	|
 | Continuous Integration/Deployment		|	4	|
-| DevOps 				  	| 	1	|
+| DevOps 				  	| 	2	|
 | Lego4Scrum Facilitation			|	2	|
 | Procurement/Contracts				|	11	|
 | Project Management				|	9	|
@@ -220,9 +225,9 @@
 | API Specs/Swagger				|	2	| 
 | Behaviour Driven Development			|	1	|
 | Bootstrap Prototyping				|	2	| 
-| React/Django/Python/Postgresql		|	1	| 
+| React/Django/Python/Postgresql		|	2	| 
 | Git Bash/Github				|	2	| 
-| HTML/CSS/JavaScript				|	8	| 
+| HTML/CSS/JavaScript				|	9	| 
 | Issue Tracking (JIRA/Trello)			|	3	|
 | Java/Oracle					|	12	| 
 | .NET/SQL					|	6	|
@@ -230,7 +235,7 @@
 | SharePoint					|	12	| 
 | UML and BPMN 2				|	4	|
 
-# Industry Knowledge  
+# Industry Knowledge Areas  
 
 -	Low Carbon Fuels  
 -	Mines and Mineral Resources  
