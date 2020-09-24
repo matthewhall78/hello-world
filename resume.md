@@ -9,13 +9,77 @@
 
 - Transportation Fuels Reporting System (Nov 2018)
 	* (Acting) Product Owner for 1 month
-- Document Management Onboarding Demo (Jan 2018) 
-	* Participated in a 3 day hackathon with 12 individuals to solve a complex and longstanding roadblock, that many projects currently face, connecting to the Ministry infrastructure to use their common software components when calling upon them from applications deployed in the OpenShift Container Platform
-	* Lead the team as the [Product Owner](http://www.scrumguides.org/scrum-guide.html#team-po) 
-	* Established the vision and a priortized backlog for the product
-	* Produced acceptance criteria
-	* Review product deliverables and signed off on completion according to the established Definition of Done
-	* Documented the [DMOD product](https://github.com/bcgov/csnr-dmod/wiki/) and described the results of the hackathon on the github wiki, [3 Day Hackathon Results](https://github.com/bcgov/csnr-dmod/wiki/3-day-Hackathon#results)  
+- Document Management Onboarding Demo (Jan 2019) 
+	* Product Owner for a 3 day hackathon with 12 individuals and created a Document Management application [DMOD](https://github.com/bcgov/csnr-dmod/wiki/) and described the results of the hackathon on the github wiki, [3 Day Hackathon Results](https://github.com/bcgov/csnr-dmod/wiki/3-day-Hackathon#results)   
+- Common Service Showcase Team (Jan 2019 to Present)
+	* **Leading Agile Teams**:
+	*  from Jan 2017 to Dec 2018 I was in a lead role on an Agile Team. As the Scrum Master I was responsible to be a servant leader to the product owner and to the scrum team. The transportation fuels reporting system (TFRS) project began with the formation of a new team using brand new "sprint with us" procurement processes as well as traditional hiring, the need to acquire a physical space for the team to work, the purchasing of equipment, transitioning the software development approach from a traditional project management approach to using following the agile principles and values, learning about DevOps pipelines and cloud native technologies, developers learning new programming languages, adopting new product management tools for backlog management and product roadmaps, and doing so in an open lab space under the constant microscope of executives who were touring the building every couple days.  Even with all that overhead and all those pressures the product team was still able deliver a minimal viable product to production in under a year.
+	* From Jan 2019 to present I had a similar experience to the previous two years where again I had to start up a new team beginning with contract procurement of developers and building a high functioning team together with some other recently hired full time staff.  Our mandate at the outset of the project was to look at a set of previous built common services and make it easy to onboard to them. This began a very exciting journey into how we can evolve and modernize existing applications to take advantage of the latest architectural principles such as DevOps, Cloud Platforms, Open Source products, and Open APIs and microservices.  During the past 18 months my team has create 14 code repositories with which we have deployed two common service applications, launched two common components apis each with a stand alone showcase application, responded to the Covid-19 pandemic with a custom application for industrial sites to report their protocols, built a catalogue to explain all the services, piloted a dashboard solution to help with the IITD cost reduction strategy, and piloted an system logging solution to help with the need to monitor the uptime and errors of services. We have established a capacity to deploy changes rapidly, evident by the average number of pull requests merged over the past 18 months (783 pull requests in under 400 business days).  
+
+	**Delivering Digital Products and Managing Service Offerings**:  
+	* 13 years experience from April 2007 to present in various roles such as business analyst, project manager, business portfolio manager, scrum master, and product owner
+	* The most recent 8 of the 13 years was in project work, and prior to that I was supporting the delivery of continuous improvement enhancements and break fixes for business critical line of business applications
+
+	**Analysis of User Research and Continuous Improvement of Digital Services**:
+	* 9 years experience in the capacity of a business analyst, assessing the needs of users and preparing documentation for the development team
+	* 4 years experience in a Scrum Team member or Product Owner role reviewing the user research prepared by the UX Researcher/Designer of the team
+	* Sitting in on UX feedback sessions 
+	* Collaborating with the UX researcher to interpret the feedback and revise our previous hypotheses on how to achieve the product vision
+	* Refactoring product roadmaps and product features based on new hypotheses 
+
+	**Digital Service experience using Agile Practices**:
+	* 2016 to current, 4 years experience in Scrum on and Agile Team
+	* Oct 2016 to Dec 2018 as Scrum Master
+	* Jan 2019 to current, experience as a product owner on Agile team
+	* Oct 2016 to current delivering monthly Agile Fundamentals courses (including Lego4Scrum workshops)
+
+	**Digital Service experience using Open Source**:  
+	* 6 years experience using open source software to implement Line of Business solutions based on IITD architectural principles
+	* The recent 4 years in particular I have been on a software team that is managing its code on Github as Open Source Apache 2.0 licensed software
+	* A lot of our work involves the evaluation and selection of other open source libraries for the inclusion in our product solutions in order to achieve the required capabilities 
+	* The past 2 years on the Common Service Showcase Team I have been focused on determining what makes an open source common component easy to onboard to 
+	* We have established a set of core characteristics and a setup delivery channels which if provided for will give users the required flexibility to implement your open source code as easy as possible
+
+	**Digital Service experience using Cloud Platforms**:  
+	* 4 years experience working with OpenShift project namespaces and developing with DevOps principles 
+	* I lead my team in the planning of development and continuous improvement activities including the adoption of cloud native architectural principles and microservice architectures
+	* We followed the "infrastructure as code" principles, and continually streamlining our code integration and deployment processes using automated delivery pipelines (Continuous Integration and Continous Delivery)
+	* Other cloud hosted services we use include those which provide services to our team's product such as static code analysis, database backups, and uptime monitoring
+	* Our code includes unit tests, api test, and functional user interface tests, all automated and where possible done following test driven development principles
+	* We followed an API first approach in order to build in a way that enables us to change
+
+	**Prioritization of work in planning based on user needs**:  
+	* 9 years experience in traditional project management and business analysis conducting prioritization of issues based on business value, impact to operations, and cost estimates
+	* 4 years experience creating product roadmaps linked to the overall product vision to deliver a solution based on user needs. I link the biweekly planning goals to the overall product vision. I revise the plans biweekly based on user feedback and adapt the plan to those changing requirements.
+
+	**Prioritization of work in planning based on costs**:  
+	* 9 years experience in traditional project management and business analysis conducting prioritization of issues based on business value, impact to operations, and cost estimates
+	* 4 years experience tracking the effort of tasks and calculating the team velocity by which they complete work. Used those velocity statistics to plan future product delivery increments. 
+
+	**Prioritization of work and reporting based on value delivered**:  
+	* 9 years experience in traditional project management and business analysis conducting prioritization of issues based on business value, impact to operations, and cost estimates
+	* 4 years experience (2 years and a scrum master and 2 years as a product owner) creating and prioritizing backlog items in the form of user stories linked to the value to delivery to users
+
+	**Prioritization of work and reporting based on return on investment**:  
+	* 9 years experience in traditional project management and business analysis conducting prioritization of issues based on business value, impact to operations, and cost estimates
+	* Over the past 4 years working on Agile projects I have formally identified and tracks value metrics used to report out on project success and return on investment
+
+	**Managing complex projects with business transformations**:  8 years experience
+	* From 2012 to 2015 the Mines Project kicked on a business transformation that is continuing strong to this day. During my time on the project we introduced a system that began the utilization of tablets for inspectors and a way to have access to their systems information while offline at a mine. Mines Information to Go what the application we built.
+	* For the Low Carbon Fuels branch between 2015 and 2018 I provided a leading role to introduce their business area to the principles of Agile in software development. I helped to coach and mentor 3 of their staff as they took on a business leadership role at various stages of the project. 
+	* Building of the success of some of the work in the TFRS project I took on a role as Product Owner to focus on the evolution and modernization of Common Services in order to reduce the duplication of effort by software developers. This business transformation is one that involves education teams on the long term economic value of investing in architectural technology patterns that provide reuse by other in the developer community. The successes we are now seeing with our email service, with over a dozen other software teams reusing the product from all across government, is evident that the common service approach is a welcomed transformation change to how we go about the business of software development.
+
+	**Managing complex projects with strategic communications**: 8 years experience  
+	*  From 2012 to present as a project lead I initiate strategic communications to understand the attitudes of staff, executives and users of the future product in order to plan out actions to take and information to curate and disseminate. I do this all for the purpose of achieving the overall strategic goal of the projects
+
+	**Managing complex projects with oversight of system integrators**: 8 years experience  
+	*  Since 2012 I have been in a lead role on complex IM/IT projects where there was a project sponsor and a level of financial governance which I was responsible to account to on behalf of the project team.  
+	   From 2012 to 2015 I was the Business Portfolio Manager for the Mines and Mineral Resources Automation and System Integration Project. 
+	   From 2016 to 2019 I was and Business Portfolio Manager, and then The Scrum Master for the Transportation Fuels Reporting System as it shifted from a traditional project management approach to an Agile approach. 
+	   Since 2019 I have been the Product Owner for the Common Services Showcase Team where I now consult with an agile leadership group who provide project oversight and funding approval. 
+
+	**Managing organizational change**: 4 years experience  
+	*  Experience from Oct 2016 to current, implementing an agile culture within IITD.  I was one the of the very first few people to build an Agile Team, take on a new role as a Scrum Master and then a Product Owner and pilot working on software development in a way that was entirely new to Government. I have helped to promote this organizational change by facilitating monthly courses in Agile Fundamentals. I co-facilitated over 50 courses and trained hundreds of people.
 	
 ## Sr. Scrum Master:
 ### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section – Oct 2016 to Oct 2018  
@@ -181,6 +245,7 @@
 | **Name**				| **Description**		| **School**			|**Date**|
 | --- 					| --- 				| --- 				| ---    |
 | Certified Scrum Product Owner		| CSPO via Scrum Alliance	| Alluvial Consulting		| (2018) |
+| Advanced - Certified Scrum Master	| A-CSM via Scrum Alliance	| Agile 42			| (2018) |
 | Certified Scrum Master		| CSM via Scrum Alliance	| Number 41 Media		| (2017) |
 | Professional Scrum Master Certificate	| PSM 1				| Scrum.Org			| (2017) | 
 | Associate Cert. in Business Analysis 	| Use Case Modelling		| Global Knowledge		| (2016) |
@@ -204,39 +269,42 @@
 
 | **Area**					|**# of years** |
 | --- 						| --- 		|
-| Business Analysis 				|	12	|
-| Business Cases				|	2	|
-| Decision Notes				|	3	|	
-| Coaching in Scrum				|	2	|
-| Continuous Integration/Deployment		|	4	|
-| DevOps 				  	| 	2	|
-| Lego4Scrum Facilitation			|	2	|
-| Procurement/Contracts				|	11	|
+| () _brackets indicate current usage_		|		|
+| Business Analysis / Needs Assessment		|	12	|
+| Business Cases / Return on Investment		|	(5)	|
+| Coaching in Scrum				|	(4)	|
+| Continuous Integration/Deployment		|	(4)	|
+| DevOps 				  	| 	(4)	|
+| Lego4Scrum Facilitation			|	3.5	|
+| Procurement / Contracts			|	13	|
+| Product Management				|	(1.5)	|
 | Project Management				|	9	|
-| Needs Assessment				|	7	|
-| Scrum						|	4  	|
+| Scrum						|	(4)  	|
 | Strategic Planning				|	6	|
-| System Maintenance / Support			|	12	|
+| System Maintenance / Support			|	(15.5)	|
 
 # Technology Knowledge Areas  
 
 | **Area**					|**# of years** | 
 | --- 						| --- 		|
-| API Specs/Swagger				|	2	| 
-| Behaviour Driven Development			|	1	|
-| Bootstrap Prototyping				|	2	| 
-| React/Django/Python/Postgresql		|	2	| 
-| Git Bash/Github				|	2	| 
-| HTML/CSS/JavaScript				|	9	| 
-| Issue Tracking (JIRA/Trello)			|	3	|
+| () _brackets indicate current usage_		|		|
+| API Specs/Swagger				|	(4)	| 
+| Cloud Hosting Platforms (OpenShift)		|	(3.5)	|
+| Git Bash/Github				|	(4)	| 
+| HTML/CSS/JavaScript				|	(11)	| 
+| Issue Tracking (JIRA/Trello)			|	(5)	|
 | Java/Oracle					|	12	| 
-| .NET/SQL					|	6	|
 | PL SQL Developer				|	4	|
+| React/Django/Python/Postgresql		|	2	| 
 | SharePoint					|	12	| 
+| Test Driven Development			|	(3)	|
 | UML and BPMN 2				|	4	|
+| Vue/Node/Postgresql				|	(1.5)	|
+| .NET/SQL					|	6	|
 
 # Industry Knowledge Areas  
 
+-	Common Services Delivery
 -	Low Carbon Fuels  
 -	Mines and Mineral Resources  
 -	Natural Gas Development  
