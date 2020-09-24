@@ -9,13 +9,21 @@
 
 - Transportation Fuels Reporting System (Nov 2018)
 	* (Acting) Product Owner for 1 month
-- Document Management Onboarding Demo (Jan 2018) 
-	* Participated in a 3 day hackathon with 12 individuals to solve a complex and longstanding roadblock, that many projects currently face, connecting to the Ministry infrastructure to use their common software components when calling upon them from applications deployed in the OpenShift Container Platform
-	* Lead the team as the [Product Owner](http://www.scrumguides.org/scrum-guide.html#team-po) 
-	* Established the vision and a priortized backlog for the product
-	* Produced acceptance criteria
-	* Review product deliverables and signed off on completion according to the established Definition of Done
-	* Documented the [DMOD product](https://github.com/bcgov/csnr-dmod/wiki/) and described the results of the hackathon on the github wiki, [3 Day Hackathon Results](https://github.com/bcgov/csnr-dmod/wiki/3-day-Hackathon#results)  
+- Document Management Onboarding Demo (Jan 2019) 
+	* Product Owner for a three day, 12 person hackathon where we created a Document Management application [DMOD](https://github.com/bcgov/csnr-dmod/wiki/) | [3 Day Hackathon Results](https://github.com/bcgov/csnr-dmod/wiki/3-day-Hackathon#results)   
+- Common Service Showcase Team (Jan 2019 to Present)
+	* Assembles and cultivated an agile team of seven members to conceive of and deliver modern evolutions of common software components  
+	* Fosters a collaborative online community of likeminded product owners and developers who share the goals to build tools and components which improve the ability to rapidly deliver high quality business solutions  
+	* Maintains a deep understanding of the Principles and Values of Agile and strive to influence the culture of the organization
+ 	* Co-facilitates monthly Agile Fundamentals courses, both in person and through distance learning methods  
+	* Presents and facilitates biweekly demonstrations of new product capabilities in order to get feedback and adapt to the changing requirements of users  
+	* Measures and tracks progress towards the return on investment on each product and for the overall service delivery of the team
+	* Creates product roadmaps which clarify technological changes in the organization and provide a pathway for conducting system modernization on existing systems
+	* Conducts stakeholder outreach and leverages strategic partnerships in the software development community 
+	* Utilizes a wide variety of software tools for product management activities. Tools include Discord, RocketChat, Jira, Github,  Mural, Youtube, and the MicroSoft Office 365 suite specifically Teams, MS PowerPoint, MS Excel, One Drive, and MS Stream) 
+	* Tracks the team expenses and budgets, receives and processes invoices, and monitors status of multiple vendor contracts
+	* Collaborates daily with a Scrum Team and participates in the standard scrum meetings (daily standups, backlog refinement, product design sessions, user feedback sessions, sprint reviews, sprint planning and biweekly retrospectives) 
+	* Coordinates with executive leadership to review alignment to the overall goals of the organization
 	
 ## Sr. Scrum Master:
 ### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section – Oct 2016 to Oct 2018  
@@ -181,6 +189,7 @@
 | **Name**				| **Description**		| **School**			|**Date**|
 | --- 					| --- 				| --- 				| ---    |
 | Certified Scrum Product Owner		| CSPO via Scrum Alliance	| Alluvial Consulting		| (2018) |
+| Advanced - Certified Scrum Master	| A-CSM via Scrum Alliance	| Agile 42			| (2018) |
 | Certified Scrum Master		| CSM via Scrum Alliance	| Number 41 Media		| (2017) |
 | Professional Scrum Master Certificate	| PSM 1				| Scrum.Org			| (2017) | 
 | Associate Cert. in Business Analysis 	| Use Case Modelling		| Global Knowledge		| (2016) |
@@ -204,39 +213,42 @@
 
 | **Area**					|**# of years** |
 | --- 						| --- 		|
-| Business Analysis 				|	12	|
-| Business Cases				|	2	|
-| Decision Notes				|	3	|	
-| Coaching in Scrum				|	2	|
-| Continuous Integration/Deployment		|	4	|
-| DevOps 				  	| 	2	|
-| Lego4Scrum Facilitation			|	2	|
-| Procurement/Contracts				|	11	|
+| () _brackets indicate current usage_		|		|
+| Business Analysis / Needs Assessment		|	12	|
+| Business Cases / Return on Investment		|	(5)	|
+| Coaching in Scrum				|	(4)	|
+| Continuous Integration/Deployment		|	(4)	|
+| DevOps 				  	| 	(4)	|
+| Lego4Scrum Facilitation			|	3.5	|
+| Procurement / Contracts			|	13	|
+| Product Management				|	(1.5)	|
 | Project Management				|	9	|
-| Needs Assessment				|	7	|
-| Scrum						|	4  	|
+| Scrum						|	(4)  	|
 | Strategic Planning				|	6	|
-| System Maintenance / Support			|	12	|
+| System Maintenance / Support			|	(15.5)	|
 
 # Technology Knowledge Areas  
 
 | **Area**					|**# of years** | 
 | --- 						| --- 		|
-| API Specs/Swagger				|	2	| 
-| Behaviour Driven Development			|	1	|
-| Bootstrap Prototyping				|	2	| 
-| React/Django/Python/Postgresql		|	2	| 
-| Git Bash/Github				|	2	| 
-| HTML/CSS/JavaScript				|	9	| 
-| Issue Tracking (JIRA/Trello)			|	3	|
+| () _brackets indicate current usage_		|		|
+| API Specs/Swagger				|	(4)	| 
+| Cloud Hosting Platforms (OpenShift)		|	(3.5)	|
+| Git Bash/Github				|	(4)	| 
+| HTML/CSS/JavaScript				|	(11)	| 
+| Issue Tracking (JIRA/Trello)			|	(5)	|
 | Java/Oracle					|	12	| 
-| .NET/SQL					|	6	|
 | PL SQL Developer				|	4	|
+| React/Django/Python/Postgresql		|	2	| 
 | SharePoint					|	12	| 
+| Test Driven Development			|	(3)	|
 | UML and BPMN 2				|	4	|
+| Vue/Node/Postgresql				|	(1.5)	|
+| .NET/SQL					|	6	|
 
 # Industry Knowledge Areas  
 
+-	Common Services Delivery
 -	Low Carbon Fuels  
 -	Mines and Mineral Resources  
 -	Natural Gas Development  
