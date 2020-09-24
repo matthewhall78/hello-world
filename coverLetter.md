@@ -12,7 +12,8 @@
 * I look for ways to build effective teams and establish partnerships to enhance the ability of my team to deliver results and overcome barriers.  
 * I am always looking for ways to solve problems creatively and to empower my team to do the same.
 
-## Experience Snapshot
+## Experience Snapshot  
+
 | **Experience** 			|**Years**	| **Related Education** |  
 | ---					| --- 		| ---			      |  
 | Product Owner	(current)		| 1.5		| Certified Scrum Product Owner |  
@@ -21,7 +22,6 @@
 | Project Manager, Business Analyst	| 9		| Bachelor of Science Degree, Computer Science/ Psychology |  
 | Junior Implementation Analyst 	| 1.5		| Diploma in Business Administration, eBusiness and Information Systems |  
 | Web Developer				| 3		|               |   
-
 
 
 # Job Requirements 
