@@ -1,4 +1,4 @@
 # hello-world
 
-* [Resume.md](resume.md)
+* [Resume](resume.md)
 * [Cover Letter](coverLetter.md)
