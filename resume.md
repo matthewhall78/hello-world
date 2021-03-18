@@ -11,7 +11,7 @@
 	* (Acting) Product Owner for 1 month
 - Document Management Onboarding Demo (Jan 2019) 
 	* Product Owner for a three day, 12 person hackathon where we created a Document Management application [DMOD](https://github.com/bcgov/csnr-dmod/wiki/) | [3 Day Hackathon Results](https://github.com/bcgov/csnr-dmod/wiki/3-day-Hackathon#results)   
-- Common Service Showcase Team (Jan 2019 to Present)
+- Common Service Showcase Team (Jan 2019 to Nov 2020)
 	* Assembles and cultivated an agile team of seven members to conceive of and deliver modern evolutions of common software components  
 	* Fosters a collaborative online community of likeminded product owners and developers who share the goals to build tools and components which improve the ability to rapidly deliver high quality business solutions  
 	* Maintains a deep understanding of the Principles and Values of Agile and strive to influence the culture of the organization
@@ -24,7 +24,12 @@
 	* Tracks the team expenses and budgets, receives and processes invoices, and monitors status of multiple vendor contracts
 	* Collaborates daily with a Scrum Team and participates in the standard scrum meetings (daily standups, backlog refinement, product design sessions, user feedback sessions, sprint reviews, sprint planning and biweekly retrospectives) 
 	* Coordinates with executive leadership to review alignment to the overall goals of the organization
-	
+
+- Mines Digital Trust Team (Nov 2020 to Present)
+        * Similar responsibility as the previous Showcase team with a focus on digital trust, decentralized identity, and verifiable credentials used in digital business to business transactions
+        * Blockchain-based and Hyperledger solutions supporting the effort to prove the responsible sourcing of mineral resources
+        * Developed a proof of concept for a [Business to Business Credential Manager](https://www.youtube.com/watch?v=1p09Cwa1Saw&ab_channel=TheExchange) 
+
 ## Sr. Scrum Master:
 ### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section – Oct 2016 to Oct 2018  
 
