@@ -25,10 +25,10 @@
 	* Collaborates daily with a Scrum Team and participates in the standard scrum meetings (daily standups, backlog refinement, product design sessions, user feedback sessions, sprint reviews, sprint planning and biweekly retrospectives) 
 	* Coordinates with executive leadership to review alignment to the overall goals of the organization
 
-- Mines Digital Trust Team (Nov 2020 to Present)
-        * Similar responsibility as the previous Showcase team with a focus on digital trust, decentralized identity, and verifiable credentials used in digital business to business transactions
-        * Blockchain-based and Hyperledger solutions supporting the effort to prove the responsible sourcing of mineral resources
-        * Developed a proof of concept for a [Business to Business Credential Manager](https://www.youtube.com/watch?v=1p09Cwa1Saw&ab_channel=TheExchange) 
+- Mines Digital Trust Team (Nov 2020 to Present). 
+	* Similar responsibility as the previous Showcase team with a focus on digital trust, decentralized identity, and verifiable credentials used in digital business to business transactions   
+	* Blockchain-based and Hyperledger solutions supporting the effort to prove the responsible sourcing of mineral resources   
+	* Developed a proof of concept for a [Business to Business Credential Manager](https://www.youtube.com/watch?v=1p09Cwa1Saw&ab_channel=TheExchange)   
 
 ## Sr. Scrum Master:
 ### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section – Oct 2016 to Oct 2018  
