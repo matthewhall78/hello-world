@@ -23,21 +23,23 @@
 - Document Management Onboarding Demo (Jan 2019) 
 	* Product Owner for a three day, 12 person hackathon where we created a Document Management application [DMOD](https://github.com/bcgov/csnr-dmod/wiki/) | [3 Day Hackathon Results](https://github.com/bcgov/csnr-dmod/wiki/3-day-Hackathon#results)   
 - Common Service Showcase Team (Jan 2019 to Nov 2020)
-	* Assembles and cultivated an agile team of seven members to conceive of and deliver modern evolutions of common software components  
-	* Fosters a collaborative online community of likeminded product owners and developers who share the goals to build tools and components which improve the ability to rapidly deliver high quality business solutions  
-	* Maintains a deep understanding of the Principles and Values of Agile and strive to influence the culture of the organization
- 	* Co-facilitates monthly Agile Fundamentals courses, both in person and through distance learning methods  
-	* Presents and facilitates biweekly demonstrations of new product capabilities in order to get feedback and adapt to the changing requirements of users  
-	* Measures and tracks progress towards the return on investment on each product and for the overall service delivery of the team
-	* Creates product roadmaps which clarify technological changes in the organization and provide a pathway for conducting system modernization on existing systems
-	* Conducts stakeholder outreach and leverages strategic partnerships in the software development community 
-	* Utilizes a wide variety of software tools for product management activities. Tools include Discord, RocketChat, Jira, Github,  Mural, Youtube, and the MicroSoft Office 365 suite specifically Teams, Word, PowerPoint, Excel, SharePoint, and One Drive) 
-	* Tracks the team expenses and budgets, receives and processes invoices, and monitors status of multiple vendor contracts
-	* Collaborates daily with a Scrum Team and participates in the standard scrum meetings (daily standups, backlog refinement, product design sessions, user feedback sessions, sprint reviews, sprint planning and biweekly retrospectives) 
-	* Coordinates with executive leadership to review alignment to the overall goals of the organization
+	* Assembled and cultivated an agile team of seven members to conceive of and deliver modern evolutions of common software components  
+	* In less than two years while I was the Product Owner, the Showcase team built and deployed and common service onboarding tool called [GETOK](https://github.com/bcgov/nr-get-token/pull/220), an email and mailmerge api called [CHES](https://github.com/bcgov/common-hosted-email-service/pull/59), a document generation api called [CDOGS](https://github.com/bcgov/common-document-generation-service/pull/48), and the initial MVP of a hosted service providing free form design and submission capabilities called [CHEFS](https://github.com/bcgov/common-hosted-form-service/releases/tag/v0.2.0)
+	* Fostered a collaborative online community of likeminded product owners and developers who share the goals to build tools and components which improve the ability to rapidly deliver high quality business solutions  
+	* Maintained a deep understanding of the Principles and Values of Agile and strive to influence the culture of the organization
+ 	* Co-facilitated monthly Agile Fundamentals courses, both in person and through distance learning methods  
+	* Presented and facilitated biweekly demonstrations of new product capabilities in order to get feedback and adapt to the changing requirements of users  
+	* Measured and tracked progress towards the return on investment on each product and for the overall service delivery of the team
+	* Created product roadmaps which clarify technological changes in the organization and provide a pathway for conducting system modernization on existing systems
+	* Conducted stakeholder outreach and leveraged strategic partnerships in the software development community 
+	* Utilized a wide variety of software tools for product management activities (Tools include Discord, RocketChat, Jira, Github,  Mural, Youtube, and the MicroSoft Office 365 suite specifically Teams, Word, PowerPoint, Excel, SharePoint, and One Drive) 
+	* Tracked the team expenses and budgets, received and processed invoices, and monitored status of multiple vendor contracts
+	* Collaborated daily with a Scrum Team and participated in the standard scrum meetings (daily standups, backlog refinement, product design sessions, user feedback sessions, sprint reviews, sprint planning and biweekly retrospectives) 
+	* Coordinated with executive leadership to review alignment to the overall goals of the organization
 
 - Mines Digital Trust Team (Nov 2020 to Jan 2022)  
-	* Sr. Product Manager role with a focus on digital trust, decentralized identity, and verifiable credentials used in digital business to business transactions  
+	* Sr. Product Manager/Product Owner role with a focus on digital trust, decentralized identity, and verifiable credentials used in digital business to business transactions  
+	* Same responsibilities and duties as the above team plus additional responsibilities as shown below
 	* Responsible for managing the project budgets, contributing to funding requests, business cases, contract negotiations, and hiring  
 	* Product Management activities included stakeholder management and outreach to establish partnership and join opensource project communities  
 	* The solution we built leveraged Hyperledger Aries (a distributed ledger technology) and supported the effort to prove the responsible sourcing of mineral resources   
