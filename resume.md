@@ -193,6 +193,7 @@
 
 | **Name**				| **Description**		| **School**			|**Date**|
 | --- 					| --- 				| --- 				| ---    |
+| Visual Facilitation Practices		| Level 1			| Ministry of Citizen Services	| (2019) |
 | Certified Scrum Product Owner		| CSPO via Scrum Alliance	| Alluvial Consulting		| (2018) |
 | Advanced - Certified Scrum Master	| A-CSM via Scrum Alliance	| Agile 42			| (2018) |
 | Certified Scrum Master		| CSM via Scrum Alliance	| Number 41 Media		| (2017) |
