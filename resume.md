@@ -9,9 +9,9 @@
 
 - Common Components Program (Jan 2022 to Present)  
 	* Design the organizational structure and make up for three new agile teams (Form Design and Submission Team, Modernization Acceleration Team, Payment Team)  
-	* Plan the recruitment and onboarding strategy over twenty new team members  
+	* Plan the recruitment and onboarding strategy for over twenty new team members  
 	* Developed the strategy for how common component teams will collaborate with other teams throughout government  
-	* In less than 2 months we have hired and onboarded five new staff and 11 new contractors, with a dozen more to come in the coming months  
+	* In less than two months we have hired and onboarded five new staff and six new contractors, with a dozen more to come in the coming months  
 	* I have initiated partnerships with other Ministries who are providing form design and submission services    
 	* Responsible for the supervision and coaching of direct reports consisting of two Sr. Product Managers and a Product Owner
  
