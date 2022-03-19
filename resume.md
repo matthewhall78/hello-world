@@ -24,7 +24,11 @@
 	* Product Owner for a three day, 12 person hackathon where we created a Document Management application [DMOD](https://github.com/bcgov/csnr-dmod/wiki/) | [3 Day Hackathon Results](https://github.com/bcgov/csnr-dmod/wiki/3-day-Hackathon#results)   
 - Common Service Showcase Team (Jan 2019 to Nov 2020)
 	* Assembled and cultivated an agile team of seven members to conceive of and deliver modern evolutions of common software components  
-	* In less than two years while I was the Product Owner, the Showcase team built and deployed and common service onboarding tool called [GETOK](https://github.com/bcgov/nr-get-token/pull/220), an email and mailmerge api called [CHES](https://github.com/bcgov/common-hosted-email-service/pull/59), a document generation api called [CDOGS](https://github.com/bcgov/common-document-generation-service/pull/48), and the initial MVP of a hosted service providing free form design and submission capabilities called [CHEFS](https://github.com/bcgov/common-hosted-form-service/releases/tag/v0.2.0)
+	* In less than two years while I was the Product Owner, the Showcase team built and deployed the following 
+		- Common service onboarding tool called [GETOK](https://github.com/bcgov/nr-get-token/pull/220)
+		- Email and mailmerge api called [CHES](https://github.com/bcgov/common-hosted-email-service/pull/59)
+		- Document generation api called [CDOGS](https://github.com/bcgov/common-document-generation-service/pull/48)
+		- The initial MVP of a hosted service providing free form design and submission capabilities called [CHEFS](https://github.com/bcgov/common-hosted-form-service/releases/tag/v0.2.0)
 	* Fostered a collaborative online community of likeminded product owners and developers who share the goals to build tools and components which improve the ability to rapidly deliver high quality business solutions  
 	* Maintained a deep understanding of the Principles and Values of Agile and strive to influence the culture of the organization
  	* Co-facilitated monthly Agile Fundamentals courses, both in person and through distance learning methods  
