@@ -20,15 +20,20 @@
 	* Measures and tracks progress towards the return on investment on each product and for the overall service delivery of the team
 	* Creates product roadmaps which clarify technological changes in the organization and provide a pathway for conducting system modernization on existing systems
 	* Conducts stakeholder outreach and leverages strategic partnerships in the software development community 
-	* Utilizes a wide variety of software tools for product management activities. Tools include Discord, RocketChat, Jira, Github,  Mural, Youtube, and the MicroSoft Office 365 suite specifically Teams, MS PowerPoint, MS Excel, One Drive, and MS Stream) 
+	* Utilizes a wide variety of software tools for product management activities. Tools include Discord, RocketChat, Jira, Github,  Mural, Youtube, and the MicroSoft Office 365 suite specifically Teams, Word, PowerPoint, Excel, SharePoint, and One Drive) 
 	* Tracks the team expenses and budgets, receives and processes invoices, and monitors status of multiple vendor contracts
 	* Collaborates daily with a Scrum Team and participates in the standard scrum meetings (daily standups, backlog refinement, product design sessions, user feedback sessions, sprint reviews, sprint planning and biweekly retrospectives) 
 	* Coordinates with executive leadership to review alignment to the overall goals of the organization
 
-- Mines Digital Trust Team (Nov 2020 to Present)  
-	* Similar responsibility as the previous Showcase team with a focus on digital trust, decentralized identity, and verifiable credentials used in digital business to business transactions   
-	* Blockchain-based and Hyperledger solutions supporting the effort to prove the responsible sourcing of mineral resources   
-	* Developed a proof of concept for a [Business to Business Credential Manager](https://www.youtube.com/watch?v=1p09Cwa1Saw&ab_channel=TheExchange)   
+- Mines Digital Trust Team (Nov 2020 to Jan 2022)  
+	* Sr. Product Manager role with a focus on digital trust, decentralized identity, and verifiable credentials used in digital business to business transactions  
+	* Responsible for managing the project budgets, contributing to funding requests, business cases, contract negotiations, and hiring  
+	* Product Management activities included stakeholder management and outreach to establish partnership and join opensource project communities  
+	* The solution we built leveraged Hyperledger Aries (a distributed ledger technology) and supported the effort to prove the responsible sourcing of mineral resources   
+	* Developed a proof of concept for the Mines Digital Trust ecosystem utilizing the [Business Partner Agent](https://github.com/hyperledger-labs/business-partner-agent) software   
+	* The Mines Digital Trust ecosystem was featured at three [workshop sessions](https://youtu.be/xvt7X_ydGzs?t=18943) during COP26 in Glasgow and that work continues today with a recent presentation at [Hyperledger's Climate Action & Accounting Special Interest Group](https://www.youtube.com/watch?v=ku6WzCEoREg)  
+	* Formation of an advisory board that includes membership from global Climate leaders such as the UN Climate Change Global Innovation Hub and the Open Earth Foundation  
+	* Established the vision and initial scope for a product called [Traction](https://github.com/bcgov/traction) which will be the next evolution of the Business Partner Agent, with a focus on how existing line of business software applications can easily integrate with an enterprise digital wallet solution for issuing, verifying and holding verifiable credentials  
 
 ## Sr. Scrum Master:
 ### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section – Oct 2016 to Oct 2018  
