@@ -24,7 +24,7 @@
 	* Product Owner for a three day, 12 person hackathon where we created a Document Management application [DMOD](https://github.com/bcgov/csnr-dmod/wiki/) | [3 Day Hackathon Results](https://github.com/bcgov/csnr-dmod/wiki/3-day-Hackathon#results)   
 - Common Service Showcase Team (Jan 2019 to Nov 2020)
 	* Assembled and cultivated an agile team of seven members to conceive of and deliver modern evolutions of common software components  
-	* In less than two years while I was the Product Owner, the Showcase team built and deployed the following 
+	* In less than two years while I was the Product Owner, [the Showcase team](https://bcgov.github.io/common-service-showcase/) built and deployed the following 
 		- Common service onboarding tool called [GETOK](https://github.com/bcgov/nr-get-token/pull/220)
 		- Email and mailmerge api called [CHES](https://github.com/bcgov/common-hosted-email-service/pull/59)
 		- Document generation api called [CDOGS](https://github.com/bcgov/common-document-generation-service/pull/48)
