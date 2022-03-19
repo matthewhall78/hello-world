@@ -209,7 +209,6 @@
 
 | **Name**				| **Description**		| **School**			|**Date**|
 | --- 					| --- 				| --- 				| ---    |
-| Visual Facilitation Practices		| Level 1			| Ministry of Citizen Services	| (2019) |
 | Certified Scrum Product Owner		| CSPO via Scrum Alliance	| Alluvial Consulting		| (2018) |
 | Advanced - Certified Scrum Master	| A-CSM via Scrum Alliance	| Agile 42			| (2018) |
 | Certified Scrum Master		| CSM via Scrum Alliance	| Number 41 Media		| (2017) |
@@ -223,13 +222,14 @@
 
 | **Name**				| **Description**		| **School**			|**Date**|
 | --- 					| --- 				| --- 				| ---    |
-|  Lean 301,				| Becoming Lean,		| Public Service Agency		| (2016) |
-|  PCMP 302,				| Request for Proposals		| Public Service Agency		| (2016) |
-|  LEAN 101,				| Lean Fundamentals		| Public Service Agency		| (2014) |
-|  Entity Analytics, 			| (EA212CE), 			| IBM Training 			| (2008) |
-|  Project Management 200, 		| Professional, 		| Public Service Agency 	| (2007) |
-|  Project Management 250, 		| Advanced MS Project, 		| BC PSA 			| (2007) |
-|  Object-Oriented Analysis,		| Design for Java Technologies	| Exit Certified 		| (2006) |
+| Visual Facilitation Practices		| Level 1			| Ministry of Citizen Services	| (2019) |
+| Lean 301				| Becoming Lean,		| Public Service Agency		| (2016) |
+| PCMP 302				| Request for Proposals		| Public Service Agency		| (2016) |
+| LEAN 101				| Lean Fundamentals		| Public Service Agency		| (2014) |
+| Entity Analytics 			| (EA212CE), 			| IBM Training 			| (2008) |
+| Project Management 200 		| Professional, 		| Public Service Agency 	| (2007) |
+| Project Management 250 		| Advanced MS Project, 		| BC PSA 			| (2007) |
+| Object-Oriented Analysis		| Design for Java Technologies	| Exit Certified 		| (2006) |
 
 # Knowledge, Skills and Abilities   
 
@@ -237,40 +237,42 @@
 | --- 						| --- 		|
 | () _brackets indicate current usage_		|		|
 | Business Analysis / Needs Assessment		|	12	|
-| Business Cases / Return on Investment		|	(5)	|
-| Coaching in Scrum				|	(4)	|
-| Continuous Integration/Deployment		|	(4)	|
-| DevOps 				  	| 	(4)	|
+| Business Cases / Return on Investment		|	(6)	|
+| Coaching in Scrum				|	(5)	|
+| Continuous Integration/Deployment		|	(5)	|
+| DevOps 				  	| 	(5)	|
 | Lego4Scrum Facilitation			|	3.5	|
-| Procurement / Contracts			|	13	|
-| Product Management				|	(1.5)	|
+| Procurement / Contracts			|	(14)	|
+| Product Management				|	(3.5)	|
 | Project Management				|	9	|
-| Scrum						|	(4)  	|
+| Scrum						|	(5)  	|
 | Strategic Planning				|	6	|
-| System Maintenance / Support			|	(15.5)	|
+| System Maintenance / Support			|	(16.5)	|
 
 # Technology Knowledge Areas  
 
 | **Area**					|**# of years** | 
 | --- 						| --- 		|
 | () _brackets indicate current usage_		|		|
-| API Specs/Swagger				|	(4)	| 
-| Cloud Hosting Platforms (OpenShift)		|	(3.5)	|
-| Git Bash/Github				|	(4)	| 
-| HTML/CSS/JavaScript				|	(11)	| 
-| Issue Tracking (JIRA/Trello)			|	(5)	|
+| API Specs/Swagger				|	(5)	| 
+| Cloud Hosting Platforms (OpenShift)		|	(4.5)	|
+| Git Bash/Github				|	(5)	| 
+| HTML/CSS/JavaScript				|	(12)	| 
+| Issue Tracking (JIRA/Trello)			|	(6)	|
 | Java/Oracle					|	12	| 
 | PL SQL Developer				|	4	|
 | React/Django/Python/Postgresql		|	2	| 
 | SharePoint					|	12	| 
 | Test Driven Development			|	(3)	|
 | UML and BPMN 2				|	4	|
-| Vue/Node/Postgresql				|	(1.5)	|
+| Vue/Node/Postgresql				|	(3.5)	|
 | .NET/SQL					|	6	|
 
 # Industry Knowledge Areas  
 
 -	Common Services Delivery
+-	Decentralized Identity
+-	Verifiable Credentials
 -	Low Carbon Fuels  
 -	Mines and Mineral Resources  
 -	Natural Gas Development  
