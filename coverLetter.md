@@ -83,18 +83,25 @@
 	* Founded and Chaired the Scrum Master Guild and helped grow a fully self sufficient community that is thriving today
 	* Product Owner of a Common Services team that began the work to shift the mindset of development team towards reusing common components instead of building it themselves (2019-2021)
 
-## Analysis of User Research and Continuous Improvement of Digital Services: _13 years experience_
-> 9 years experience in the capacity of a Business Analyst, Project Manager and Business Portfolio Manager which involved
+## Supervising employees, professionals and multi-disciplinary teams: _8 years experience_
+> 3 years experience in the capacity of a Business Portfolio Manager which involved
 
-* assessing the needs of users and 
-* preparing documentation for the development team based on the analysis of requirements gathering
+* Reviewing the quality of work and conduct on the team for multiple contractor teams for various software applications being maintained (Mineral Titles Online, Minfile, Mines Management System, and others)
+* Reviewing resumes of new contractors
+* Approving the payment of invoices
 
-> 4 years experience is as a Scrum Team member and Product Owner role reviewing the user research prepared by the UX Researcher/Designer of the team. This involves the following:   
+> 2 years experience as a Scrum Master  
 
-* Sitting in on UX feedback sessions  
-* Collaborating with the UX researcher to interpret the feedback  
-* Revise our previous hypotheses on how to achieve the product vision  
-* Refactoring product roadmaps and product features based on new hypotheses  
+* onboarding new staff
+* coaching the team and the new Product Owner in agile practices
+* Managing the delivery of product increments to ensure we were able to efficiently get feedback from users  
+
+> 3 years experience as a Product Owner 
+
+* Coaching staff and reviewing performance
+* Setting the product vision for the team
+* Strategical creating hypotheses on how to achieve the product vision  
+* Establishing product roadmaps to set the direction for the cross functionaly team  
 
 ## Digital Service experience using agile practices, open source, and cloud platforms: _4 to 6 years experience_
 **Agile Practices:** _4 years experience_
