@@ -4,7 +4,7 @@
 
 # Cover Letter
 
-## Competency Profile for: _Band 3 - Senior Product Manager_
+## Competency Profile for: _Band 4 - Senior Director of Digital Delivery_
 * When in a leadership role I strive to be curious of the opinions of others and leverage the collective abilities of the team to develop and implement plans for complex projects.   
 * As a leader I ensure that decisions are based on measurement, and the value delivered, in order to be effective in the utilization of resources for the organization.   
 * I look for opportunities to help others learn how to plan, organize and co-ordinate the work more effectively.   
@@ -16,27 +16,25 @@
 
 | **Experience** 			|**Years**	| **Related Education** |  
 | ---					| --- 		| ---			      |  
-| Product Owner	(current)		| 1.5		| Certified Scrum Product Owner |  
-| Scrum Master				| 2		| Advanced Certified Scrum Master |  
+| Sr. Director	(current)		| 2 months	| cumulative |
+| Product Owner (Sr. Product Manager)	| 3.5		| Certified Scrum Product Owner |  
+| Sr. Scrum Master - Technical		| 2		| Advanced Certified Scrum Master |  
 | Business Portfolio Manager 		| 6		| Business Analysis - Associate Certification courses |  
 | Project Manager, Business Analyst	| 9		| Bachelor of Science Degree, Computer Science/ Psychology |  
 | Junior Implementation Analyst 	| 1.5		| Diploma in Business Administration, eBusiness and Information Systems |  
-| Web Developer				| 3		|               |   
+| Web Developer				| 3		| Software Engineering Courses at UVic |   
 
 
 # Job Requirements 
-## Leading Agile Teams: _2 years experience_  
-**Scrum Master Role** 
-> From Jan 2017 to Dec 2018, as the Scrum Master, I coached the product owner and the scrum team on ways to efficiently manage their work and stay focused on the goals and vision of the project. The transportation fuels reporting system (TFRS) project was unique in many ways:
+## Leading the creation, improvement, and management of a wide variety of products and services: _10 years experience_  
 
-* Formed of a new Agile team using the innovative "sprint with us" procurement process  
-* Coordinated and setup a physical lab space for the team to work, and made arrangments for the purchase of equipment  
-* Lead the transition between software development methodologies, from a traditional project management approach to following the agile principles and values 
-* Learned about DevOps pipelines and cloud native technologies  
-* Adopted new product management tools for backlog management and product roadmaps 
-* Encouraged developers who had to learn new programming languages 
+**Sr. Director Role**  
+> From Jan 2022 to Present, I began the design of the Common Components Program which will deliver products and services to all of Government:  
 
-> During all of that time we were working in an open lab space under the constant microscope of executives who were touring the building every couple days. Even with all that overhead and all those pressures the product team was still able deliver a minimal viable product to production in under a year.
+* I started in this position on January 24th and began the search for team members immediately. The first team members began working on Febrary 14th (five contractors). Through a social media campaign I ran, I found five staff. The first employee began working on March 7th and the fourth started on March 15th. One more offer letter was extended and is accepted.  
+* On the Form Design and Submission team we have held product inception meetings and began the formation of a research plan, product vision, business model, team agreement and agile framework  
+* I have began formalizing partnerships with other Forms teams in government
+* I created a governance framework template to provide structure for how teams who share the need for a core capability like "form design and submission" will collaborate in an open source project model
 
 **Product Owner Role**
 > From Jan 2019 to now, similar to my previous Scrum Master role, as a Product Owner I also began at square one:  
@@ -61,6 +59,19 @@
 * piloted an system logging solution to help with the need to monitor the uptime and errors of services
 * Soon to release the MVP of a new government wide form designer and publishing service. 
 * We have established a capacity to deploy changes rapidly, evident by the average number of pull requests merged over the past 18 months (783 pull requests in under 400 business days).  
+
+**Scrum Master Role** 
+> From Jan 2017 to Dec 2018, as the Scrum Master, I coached the product owner and the scrum team on ways to efficiently manage their work and stay focused on the goals and vision of the project. The transportation fuels reporting system (TFRS) project was unique in many ways:  
+
+* Formed of a new Agile team using the innovative "sprint with us" procurement process  
+* Coordinated and setup a physical lab space for the team to work, and made arrangments for the purchase of equipment  
+* Lead the transition between software development methodologies, from a traditional project management approach to following the agile principles and values 
+* Learned about DevOps pipelines and cloud native technologies  
+* Adopted new product management tools for backlog management and product roadmaps 
+* Encouraged developers who had to learn new programming languages 
+
+> During all of that time we were working in an open lab space under the constant microscope of executives who were touring the building every couple days. Even with all that overhead and all those pressures the product team was still able deliver a minimal viable product to production in under a year.
+
 
 ## Delivering Digital Products and Managing Service Offerings:  _13 years experience_ 
 * Between April 2007 and now I have worked in the following roles:
