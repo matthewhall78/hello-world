@@ -74,14 +74,14 @@
 > During all of that time we were working in an open lab space under the constant microscope of executives who were touring the building every couple days. Even with all that overhead and all those pressures the product team was still able deliver a minimal viable product to production in under a year.
 
 
-## Delivering Digital Products and Managing Service Offerings:  _13 years experience_ 
-* Between April 2007 and now I have worked in the following roles:
-	* Business Analyst  (2007)
-	* Project Manager   (2012)
-	* Business Portfolio Manager (2014) 
-	* Scrum Master (2016)
-	* Product Owner (2019)
-* The most recent eight of the last 13 years have been on projects work, and prior to that I was supporting the delivery of continuous improvement enhancements and break fixes for multiple business critical applications.
+## Leading change management activities in transformation initiatives:  _10 years experience_ 
+* Between April 2012 and now I have worked on transformation initiatives in the following roles:
+	* Project Manager on the Mines and Mineral Resources Automation and System Integration Project (2012 - 2014)
+	* Business Portfolio Manager for multiple systems in Ministry of Energy and Mines and Low Carbon Innovation including the introduction of mobile devices for inspectors with access to Mines data (2014) 
+	* Scrum Master for the Low Carbon Fuels branch of EMLI where we transition a waterfall project into an agile project (2016 - 2019)
+	* Initiated an Agile Fundamentals training program where I co-facilitated and taught scrum to hundreds of BC Gov staff (2016 - 2021)
+	* Founded and Chaired the Scrum Master Guild and helped grow a fully self sufficient community that is thriving today
+	* Product Owner of a Common Services team that began the work to shift the mindset of development team towards reusing common components instead of building it themselves (2019-2021)
 
 ## Analysis of User Research and Continuous Improvement of Digital Services: _13 years experience_
 > 9 years experience in the capacity of a Business Analyst, Project Manager and Business Portfolio Manager which involved
