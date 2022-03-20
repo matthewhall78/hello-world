@@ -37,7 +37,7 @@
 * I created a governance framework template to provide structure for how teams who share the need for a core capability like "form design and submission" will collaborate in an open source project model
 
 **Product Owner Role**
-> From Jan 2019 to now, similar to my previous Scrum Master role, as a Product Owner I also began at square one:  
+> From Jan 2019 to Jan 2022, similar to in my current role as Senior Director and in my previous role as Senior Scrum Master role, I also began this role without a team in place and needed to build and guide new team members into becoming a high functioning team:  
 
 * Start up a new team beginning with contract procurement of developers, and
 * Build a high functioning team with contractors and some other recently hired full time staff.   
@@ -49,16 +49,17 @@
 * Open Source products
 * Open APIs and microservices  
 
-> During the past 22 months my team has created 14 code repositories with which we use to accomplish the following:    
+> During my 2 years in this role my team has created 14 code repositories with which we use to accomplish the following:    
 
-* deployed an application to conduct automated onboarding of api access 
-* launched two common components apis (email messaging and document generation) each with a stand alone showcase application 
-* responded to the Covid-19 pandemic with a custom application for industrial sites to report their protocols 
-* built a catalogue to explain all the services 
-* piloted a dashboard solution to help with the IITD cost reduction strategy  
-* piloted an system logging solution to help with the need to monitor the uptime and errors of services
-* Soon to release the MVP of a new government wide form designer and publishing service. 
-* We have established a capacity to deploy changes rapidly, evident by the average number of pull requests merged over the past 18 months (783 pull requests in under 400 business days).  
+* Deployed an application to conduct automated onboarding of api access 
+* Launched two common components apis (email messaging and document generation) each with a stand alone showcase application
+* The email service was using to send out all the emails for BC Covid-19 vaccine appointments
+* Responded to the Covid-19 pandemic with a custom application for industrial sites to report their protocols 
+* Built a catalogue to explain all the services 
+* Piloted a dashboard solution with Metabase to help with the IITD cost reduction strategy  
+* Piloted an system logging solution to help with the need to monitor the uptime and errors of services
+* Released an MVP of a form design and submission service currently serving over 350 forms and 3050 users
+* Using DevOps practices we made the cost of change very affordable, evident by the average number of pull requests merged over the past 18 months (783 pull requests in under 400 business days).  
 
 **Scrum Master Role** 
 > From Jan 2017 to Dec 2018, as the Scrum Master, I coached the product owner and the scrum team on ways to efficiently manage their work and stay focused on the goals and vision of the project. The transportation fuels reporting system (TFRS) project was unique in many ways:  
