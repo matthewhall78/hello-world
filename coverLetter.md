@@ -196,10 +196,9 @@ During all of that time we were working in an open lab space under the constant 
 * I was among the first few to form agile teams  
 * I was the first BC Government employee to take on the Scrum Master role   
 * I started up the Scrum Master guild which is now a thriving and growing group of professionals 
-* I am actively collaborating with other Agile professionals to continue to mentor, train and coach staff who starting to work on this Agile software development approach 
-* I am currently promoting this organizational change by facilitating monthly courses in Agile Fundamentals. I have co-facilitated over 50 courses and trained hundreds of people 
+* I am actively collaborating with other Agile professionals to continue to mentor, train and coach staff who starting to work on this Agile software development approach  
+* I have facilitated Agile Fundamentals on over 50 occasions training hundreds of people  
 
-  
 > View formatted Resume on GitHub: 
 	[resume.md](https://github.com/matthewhall78/hello-world/blob/master/resume.md)   
 > View formatted Cover Letter on GitHub: 
@@ -209,4 +208,4 @@ During all of that time we were working in an open lab space under the constant 
 
 | Author        | Date        | version |
 | ---           | ---         | ---     |
-| Matthew Hall  | 2022-03-20  | 4.0.0 	|
+| Matthew Hall  | 2022-03-20  | 4.1.0 	|
