@@ -16,13 +16,25 @@
 	* Responsible for the supervision and coaching of direct reports consisting of two Sr. Product Managers and a Product Owner
  
 ## Product Owner:
+### Ministry of Energy Mines and Low-carbon Innovation
+- Mines Digital Trust Team (Nov 2020 to Jan 2022)  
+	* Sr. Product Manager/Product Owner role with a focus on digital trust, decentralized identity, and verifiable credentials used in digital business to business transactions  
+	* Same responsibilities and duties as the above team plus additional responsibilities as shown below
+	* Responsible for managing the project budgets, contributing to funding requests, business cases, contract negotiations, and hiring  
+	* Product Management activities included stakeholder management and outreach to establish partnership and join opensource project communities  
+	* The solution we built leveraged Hyperledger Aries (a distributed ledger technology) and supported the effort to prove the responsible sourcing of mineral resources   
+	* Developed a proof of concept for the Mines Digital Trust ecosystem utilizing the [Business Partner Agent](https://github.com/hyperledger-labs/business-partner-agent) software   
+	* The Mines Digital Trust ecosystem was featured at three [workshop sessions](https://youtu.be/xvt7X_ydGzs?t=18943) during COP26 in Glasgow and that work continues today with a recent presentation at [Hyperledger's Climate Action & Accounting Special Interest Group](https://www.youtube.com/watch?v=ku6WzCEoREg)  
+	* Formation of an advisory board that includes membership from global Climate leaders such as the UN Climate Change Global Innovation Hub and the Open Earth Foundation  
+	* Established the vision and initial scope for a product called [Traction](https://github.com/bcgov/traction) which will be the next evolution of the Business Partner Agent, with a focus on how existing line of business software applications can easily integrate with an enterprise digital wallet solution for issuing, verifying and holding verifiable credentials 
+
 ### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section  
 
 - Transportation Fuels Reporting System (Nov 2018)
 	* (Acting) Product Owner for 1 month
 - Document Management Onboarding Demo (Jan 2019) 
 	* Product Owner for a three day, 12 person hackathon where we created a Document Management application [DMOD](https://github.com/bcgov/csnr-dmod/wiki/) | [3 Day Hackathon Results](https://github.com/bcgov/csnr-dmod/wiki/3-day-Hackathon#results)   
-- Common Service Showcase Team (Jan 2019 to Nov 2020)
+- Common Service Showcase Team (Nov 2018 to Nov 2020)
 	* Assembled and cultivated an agile team of seven members to conceive of and deliver modern evolutions of common software components  
 	* In less than two years while I was the Product Owner, [the Showcase team](https://bcgov.github.io/common-service-showcase/) built and deployed the following 
 		- Common service onboarding tool called [GETOK](https://github.com/bcgov/nr-get-token/pull/220)
@@ -40,21 +52,10 @@
 	* Utilized a wide variety of software tools for product management activities (Tools include Discord, RocketChat, Jira, Github,  Mural, Youtube, and the MicroSoft Office 365 suite specifically Teams, Word, PowerPoint, Excel, SharePoint, and One Drive) 
 	* Tracked the team expenses and budgets, received and processed invoices, and monitored status of multiple vendor contracts
 	* Collaborated daily with a Scrum Team and participated in the standard scrum meetings (daily standups, backlog refinement, product design sessions, user feedback sessions, sprint reviews, sprint planning and biweekly retrospectives) 
-	* Coordinated with executive leadership to review alignment to the overall goals of the organization
-
-- Mines Digital Trust Team (Nov 2020 to Jan 2022)  
-	* Sr. Product Manager/Product Owner role with a focus on digital trust, decentralized identity, and verifiable credentials used in digital business to business transactions  
-	* Same responsibilities and duties as the above team plus additional responsibilities as shown below
-	* Responsible for managing the project budgets, contributing to funding requests, business cases, contract negotiations, and hiring  
-	* Product Management activities included stakeholder management and outreach to establish partnership and join opensource project communities  
-	* The solution we built leveraged Hyperledger Aries (a distributed ledger technology) and supported the effort to prove the responsible sourcing of mineral resources   
-	* Developed a proof of concept for the Mines Digital Trust ecosystem utilizing the [Business Partner Agent](https://github.com/hyperledger-labs/business-partner-agent) software   
-	* The Mines Digital Trust ecosystem was featured at three [workshop sessions](https://youtu.be/xvt7X_ydGzs?t=18943) during COP26 in Glasgow and that work continues today with a recent presentation at [Hyperledger's Climate Action & Accounting Special Interest Group](https://www.youtube.com/watch?v=ku6WzCEoREg)  
-	* Formation of an advisory board that includes membership from global Climate leaders such as the UN Climate Change Global Innovation Hub and the Open Earth Foundation  
-	* Established the vision and initial scope for a product called [Traction](https://github.com/bcgov/traction) which will be the next evolution of the Business Partner Agent, with a focus on how existing line of business software applications can easily integrate with an enterprise digital wallet solution for issuing, verifying and holding verifiable credentials  
+	* Coordinated with executive leadership to review alignment to the overall goals of the organization 
 
 ## Sr. Scrum Master:
-### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section – Oct 2016 to Oct 2018  
+### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section: Oct 2016 - Oct 2018  
 
 - Premier Awards: 
 	* 2017 Regional Finalist in the Category of Innovation  
@@ -72,106 +73,28 @@
 	* Built a product roadmap and release roadmap for the completion of a Low Carbon Fuel Credit Trading system  
 	* Produced the [TFRS task board](https://trello.com/tfrs1) for planning, review and backlog refinement  
 	* Organized Documentation on the [tfrs github wiki](https://github.com/bcgov/tfrs/wiki/)  
-	* Facilitated planning, review and retrospective meetings adhering to Scrum values, principles and practices:  
-		- User stories are focused on a feature, assigned story points and split to an appropriate size   
-		- Stories have automated tests written (Test Driven Development and Functional Testing)  
-		- Code changes link to user stories https://github.com/bcgov/tfrs/releases  
-		- Definition of done and acceptance criteria are written and understood by the Product Owner  
-		- Challenge the team to deliver high quality working software to users each week
-		- Encourage the team to collaborate with each other daily on achieving the sprint goal
-- Agile training and Lego4Scrum  (2016 to present)    
-	* Facilitated 23 Lego4Scrum workshops (reaching over 350 individuals)   
+	* Facilitated planning, review and retrospective meetings adhering to Scrum values, principles and practices
+- Agile training and Lego4Scrum  (Oct 2016 to Sep 2020)    
+	* Facilitated dozens of Lego4Scrum workshops (reaching hundreds of individuals)   
 	* Collaborated with the BC Developer's Exchange in the development of training curriculum for new agile teams  
 	* Created an orientation package to assist new agile teams https://github.com/bcgov/agile-sdlc/wiki   
-- Scrum Master Guild  (2017 to present)  
+- Scrum Master Guild  (Jan 2017 to Oct 2019)  
 	* I reached out to all Scrum Master across government and extended an invite to form a Guild  
 	* I facilitate guild meetings and collaboratively create agendas  
 
 ## Business Portfolio Manager, Business Analyst and Project Manager:
 ### Corporate Services for Natural Resources, Information Mgmt Branch – Apr 2007 to Jul 2017  
 
-- Knowledge and experience with change management processes and project management methodologies (8 yrs)  
-	* Lead Business Portfolio Manager   
-	  on the Mines & Mineral Resources Automation & System Integration (MMRASI) project (Jan 2014 to Present)  
-	* Lead Project Manager for a Database and Spatial Technology Upgrade Project in which I 
-	  lead the coordination efforts between the impacted application  
-	* Since Apr 2007 I have used change management process and project management methodologies 
-	  to coordinate the delivery of software releases in my assigned portfolio within the IMB  
-	* I have taken three Project Management courses (PM 11, PM 200 & PM 250)  
+- Knowledge and experience with change management processes and project management methodologies (8 yrs)   
 - Experience providing business analysis for key front line systems with 
   complex interactive business processes and multi-ministry impacts: (8 yrs)  
-	* Mines & Mineral Resources Automation & System Integration, Oct 2012 to Present  
-		- Lead the development of the 2012 Mines Business Case Submission  
-		- Gathered information from the Mines business area and 
-		  developed requirements for the Transformation Request for RFP  ITP-011  
-		- Lead the RFP Evaluation Process in coordination with the Procurement Office  
-		- Worked collaboratively with the PM to produce the analysis of the current state and 
-		  a prioritized roadmap of MMRASI transformation projects  
-		- Lead BPM for the Coal Titles Sub project of MMRASI
-		  to replace the MiDA Mainframe system and linkage to NRPP common components  
-- Responsible for leading information system's planning with business areas (4 yrs)  
-	* Completed Assessments of the current state of the business and its supporting systems  
-	* Collaboratively developed business cases for the application vision  
-	* Reviewed with Executive the technical health and business value of their systems  
-	* Forecasted requests for capital and operational funding to support the future state  
+- Responsible for leading information system's planning with business areas (4 yrs)   
 - Experience in procurement, contract & budget management: (April 2007 - Present, 8 yrs)  
-	* Planning, writing and evaluating procurement documents, including RFPs  
-	* Preparing quarterly and annual budget forecasts for Executive  
-	* Review contract performance, estimates and invoices  
-- Experience providing business analysis on high risk projects, including management of financial and human resources: (8 years)  
-	* Qualified Receiver with financial responsibility for 4 vendor contracts totalling over $1,000,000 annually  
-	* Recently completed a high risk Database and Spatial Technology Upgrade project which had 
-	  many dependencies and financial considerations - Oct 2014 to Feb 2015  
-		- Lead for all Project Management and Business Analysis work. 
-		  This project completed on time and required coordination with multiple ministries, and 
-		  BPMs for the applications they support  
-		- Managed communications across multiple Ministries for all affected systems  
-		- Communication about project priority was shared with Executive in order 
-		  to ensure that we had secure resourcing in order to complete on time   
-- Experience managing a team of professionals: (April 2012 to Present, 3 yrs)  
-	* Providing backup supervision of staff in the work section including:   
-		- Mentoring 1 staff member on all HR related matters, with understanding of the Collective Agreement (3 years)  
-		- Coaching 1 staff member in career planning, resume planning, and 
-		  approaches to handle workplace concerns, as well as sensitive personal issues (3 years)  
-	* Directing the work of contractor teams for the MMRASI capital project (Dec 2013 to present)  
-	* Supervising contractor teams to support the maintenance of software (since April 2007)  
-		- Setting performance expectations and monitoring the performance  
-		- Providing timely, direct feedback as recognition for work that exceeds the standards, 
-		  or by resolving issues with poor performance  
-		- Facilitating all forms communication and conflict resolution between business areas, 
-		  technical teams and the software maintenance vendor  
-- Knowledge of the installation, configuration, maintenance and problem resolution of 
-  hardware, software, operating systems and network components: (10 yrs); and 
-  Knowledge of application design and development life cycle; 
-  enterprise business architecture and all aspects of IT security: (8 yrs)  
-	* Utilize the Software Development Life Cycle for the support and 
-	  maintenance of line of business systems and supporting hardware  
-	* Completed Security Threat and Risk Assessments and Privacy Impact Assessments  
-	* Experience working with Archimate and Business Process Modelling Notation version 2 (BPMN 2), 
-	  using the software Enterprise Architect for the documentation of business processes  
-	* I have complete courses in the following areas:  
-		- TOGAF Learning Sessions (in progress)  
-		- Oracle Business Process Modeling  
-		- object orientated software design,  
-		- business process modelling notation,  
-		- user experience design processes,  
-		- relational database modelling,  
-		- requirements specification development,  
-		- software architecture  
-		- information security and privacy  
-	
-- Has demonstrated leadership and innovation by the following workplace contributions
-	* Participant in a year-long Employee Advisory Committee chaired by the Assistant Deputy Minister 
-	  for Corporate Services for the Natural Resources (CSNR)
-	* Developed a new template for a streamlined Request for Proposal for IM/IT Contracts
-	* Collaborated with a small team to develop the CSNR best practices and 
-	  governance documents for the use of SharePoint 2010
-	* Being on an Innovation Champion team under the direction of the 
-	  Assistant Deputy Minister's Committee on Technology and Transformation
-	* Co-Chair for the Web Media Community of Practice
-	* Community of Practice Chair for lightweight software development using MS Access
-	* Developed best practices for conducting online surveys and related privacy guidelines
-	* Participant in a TOGAF community of practice
+- Experience providing business analysis on high risk projects, including management of financial and human resources: (8 years)    
+- Experience managing a team of professionals: (April 2012 to Oct 2016)    
+- Knowledge of the installation, configuration, maintenance and problem resolution of hardware, software, operating systems and network components: (10 yrs)  
+- Knowledge of application design and development life cycle, enterprise business architecture, privacy and security: (8 yrs)  
+- Demonstrated leadership and innovation by volunteering to participate on Employee Advisory Committees and Communities of Practice
 
 ### Ministry of Labour & Citizen Services, OCIO – Oct 2008 to Feb 2009
 	
