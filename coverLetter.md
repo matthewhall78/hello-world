@@ -78,17 +78,12 @@ Our mandate at the outset of the project was to look at the common components bu
 > During all of that time we were working in an open lab space under the constant microscope of executives who were touring the building every couple days. Even with all that overhead and all those pressures the product team was still able deliver a minimal viable product to production in under a year.  
 
 ## Leading change management activities in transformation initiatives:  _10 years experience_   
-* Between April 2012 and now I have worked on transformation initiatives in the following roles:  
+> 10 years experience since April 2012 and now working in in the following roles:  
 	* Project Manager on the Mines and Mineral Resources Automation and System Integration Project (Apr 2012 - 2014)  
 	* Business Portfolio Manager for multiple systems in Ministry of Energy and Mines and Low Carbon Innovation including the introduction of mobile devices for inspectors with access to Mines data (2014 - Oct 2016)   
 	* Scrum Master for the Low Carbon Fuels branch of EMLI where we transition a waterfall project into an agile project (Oct 2016 - Oct 2018)  
 	* Product Owner of a Common Services team that began the work to shift the general mindsets of development teams towards reusing common components instead of building it themselves (Oct 2018 - Oct 2020)  
 	* Product Owner for the Mines Digital Trust team on a transformational product team building out a distributed ledger technology (e.g. blockchain) that will allow for authoritative sources to issue verifiable credentials that can be cryptographically proved to be from the source, issued to the holder and are tamper evident (Nov 2020 - Jan 2022)   
-
-**Business Transformation:**  
-* From 2012 to 2015 the Mines Project kicked off a business transformation that is continuing strong to this day. During my time on the project we built an application (Mines Information To Go) that introduced the utilization of tablets for inspectors and a way to have access to their systems information while offline at a mine. 
-* For the Low Carbon Fuels branch between 2015 and 2018 I provided a leading role to introduce their business area to the principles of Agile in software development. I helped to coach and mentor 3 of their staff as they took on a business leadership role at various stages of the project.  During this project I challenged our product owner to establish a new positive relationship the Fuel Supplier staff who would be using our system. Much to the surprise of the Low Carbon Fuels branch the Fuel Supplier staff were happy to collaborate with us in the development of the product. The surprise came from the fact that previously the fuel supplier companies were actually lobbying against the legislation that led to this products development.
-* Following the project with the Low Carbon Fuels branch I took on a role as Product Owner to focus on the evolution and modernization of Common Services with the goal to reduce the duplication of software development work. This business transformation is one that involves demonstrating to other development teams the long term economic value of investing in common components for the developer community. The successes we are now seeing with the email service my team built, with over a dozen other software teams reusing the product from all across government, is evident that the common service approach is a welcomed transformational change to how we go about the business of software development.
 
 ## Supervising employees, professionals and multi-disciplinary teams: _8 years experience_
 > 3 years experience in the capacity of a Business Portfolio Manager which involved
@@ -111,25 +106,24 @@ Our mandate at the outset of the project was to look at the common components bu
 * Establishing product roadmaps to set the direction for the cross functionaly team  
 
 ## Using innovation methods including but not limited to facilitation: _6 years experience_
-**Agile Practices:** _6 years experience_
+> 6 years experience in Agile Practices
 * 2016 to current working full time on Agile Teams using the Scrum Framework
 	* Oct 2016 to Dec 2018 in the Scrum Master role
 	* Jan 2019 to Jan 2022 in the Product Owner role
 * Initiated an Agile Fundamentals training program where I co-facilitated and taught scrum to hundreds of BC Gov staff (Oct 2016 - Sep 2020)
 * Founded and Chaired the Scrum Master Guild and helped grow a fully self-sufficient community that is thriving today
 
-**Open Source Development:**  _6 years experience_
-* 6 years experience using open source software to implement Line of Business solutions based on IITD architectural principles
-* For the past 6 years I have been on a software team that is managing its code on Github as Open Source Apache 2.0 licensed software
-* A lot of our work involves the evaluation and selection of other open source libraries for the inclusion in our product solutions in order to achieve the required capabilities 
-* From Jan 2019 to Nov 2020 on the Common Service Showcase Team I was focused on determining what makes an open source common component easy to onboard to 
+> 6 years experience in Open Source Development
+* Using open source software to implement Line of Business solutions based on IITD architectural principles
+* Managing code on Github as Open Source Apache 2.0 licensed software
+* Establishing guidance for self service onboarding best practices
 
-**Visual Facilitation**
+> Training and one project using Visual Facilitation techniques
 * I used this innovative method to capture our product team vision for how to build quality common services
 * In this poster I captured the concepts of a set of core characteristics as "pillars" and a list of delivery channels aimed at meeting the needs of development teams who require flexibility to implement common services in a way that aligns to their operational requirements
 
-**Cloud Platforms:**  _6 years experience_
-* 6 years experience working with OpenShift project namespaces and developing with DevOps principles 
+> 6 years experience in using Cloud Platforms  
+* Working with OpenShift project namespaces and developing with DevOps principles 
 	* I lead my team in all planning activities for development and continuous improvement efforts  
 	* I challenge the team to incorporate the adoption of cloud native architectural principles and microservice architectures into each iteration of our products
 	* We follow the "infrastructure as code" design principles, and continually streamline our code integration and deployment processes leveraging automated delivery pipelines (Continuous Integration and Continous Delivery)
@@ -146,9 +140,13 @@ Our mandate at the outset of the project was to look at the common components bu
 * On each of these teams there have been opportunities to coach and encourage team members who may have untapped potential to strive for greater achievement.
 * In some cases I have chosen to negotiate with a contract delivery manager to provide alternate resources
 * On one project as a Business Portfolio Manager we chose to end a contract and pivot to an agile approach resulting faster feedback cycles, producing better outcomes for the business area and its clients
+* While a Scrum Master I challenged our product owner in a friendly way to establish a new positive relationship with the Fuel Suppliers who were lobbying against the legislation that led to this products development. Much to the surprise of our Product Owner the Fuel Supplier staff were happy to collaborate with us in the development of the product.
 
-## Experience building relationships with multiple jurisdictions, stakeholders, and private sectors:  _5 years experience_  
-* On the Common Service Showcase Team the majority of my communication involves planning ahead to identify the stakeholder relationships to establish and the partnerships to create and leverage in order to achieve the product vision. Carrying out these communications often involves creative use of tools and communication channels. Some of the relationships I have established include:
+## Experience building relationships with multiple jurisdictions, stakeholders, and private sectors:  _3 years experience_  
+> 2 years experience as a Product Owner on the Common Service Showcase Team 
+* Planning ahead to identify the stakeholder relationships to establish and the partnerships to create and leverage in order to achieve the product vision
+* Carrying out these communications often involves creative use of tools and communication channels
+* Some of the relationships I have established include:
 	* Other teams who are building common components
 	* Governance level sponsors and directors who influence the adoption and funding of what we are building
 	* Business Portfolio Managers who have awareness of many existing products and connections to business areas
@@ -156,21 +154,33 @@ Our mandate at the outset of the project was to look at the common components bu
 	* Platform services who we rely on for foundational technology
 	* Training and communications groups who provide an avenue for outreach and product awareness
 	* Other corporate-wide groups or subject matter experts such as privacy and security professionals
+> 1 year experience as a Product Owner for the Mines Digital Trust team
+* Reaching out through many different channels such as Slack, LinkedIn, Rocketchat and through email to find potential partnership for the work of our project
+* I made new connections with the Federal Government of Canada
+* Built trust and formed an ongoing open source project consortium with Bosch on their Business Partner Agent software
+* Invited private companies who are influencial in the space of Decentralized Identity to join our proof of concept and contribute their time and effort free of charge
+* Attended global conferences on self sovereign identity and made connections with academics from UBC who were instrumental in our introductions to others at Yale who had connections with the Open Earth Foundation, which in turn resulted in our introduction to the UN Framework Convention on Climate Change and an invitation to present our work at COP26 in Glasgow this past November
+* Built relationships of trust with the Mining Association of BC and the BC Business Council for the work that we are doing
 
+## Managing budgets, contracts and expenditures ensuring compliance with fiscal parameters and the prudent use of financial resources: _14 years experience_ 
+**Funding Sources, Salaries and Budget Tracking:**  
+* 1 year recent experience for the Mines Digital Trust team, being primarily responsible for tracking the budget of staff salary, and contractor funding against an OCIO capital funding approval
+* Submitting concept case for Telus SIF funding source, and writing the newly modifieid Agile Project Charter that they are using to accommodate the agile team approach
 
-## Prioritization of work in planning based on user needs, costs, value delivered, and return on investment: _13 years experience_ 
 **Traditional Project Management:**
-* 9 years experience in traditional project management and business analysis conducting prioritization of issues based on business value, impact to operations, and cost estimates
+* 9 years experience in traditional project management and business analysis conducting prioritization of issues based on business value, impact to operations, and cost estimates and tracking work to a budget
+* I have lead all aspects of contract management and procurement processes
 
 **Agile Product Management:**
-* 4 years experience creating product roadmaps linked to the overall product vision to deliver a solution based on user needs. I link the biweekly planning goals to the overall product vision. I revise the plans biweekly based on user feedback and adapt the plan to those changing requirements    
-* 4 years experience tracking the effort of tasks and calculating the team velocity by which they complete work  
+* 5 years experience creating product roadmaps linked to the overall product vision to deliver a solution based on user needs. I link the biweekly planning goals to the overall product vision. I revise the plans biweekly based on user feedback and adapt the plan to those changing requirements    
+* 5 years experience tracking the effort of tasks and calculating the team velocity by which they complete work  
 	* Used those velocity statistics to plan future product delivery increments  
 	* The team costs are monitored and tracked  
 	* The costs are linked to the individual products we are building in order to calculate the total cost of ownerships for each piece of software we develop  
 	* Total cost of ownership is used in break even analysis and return on investment calculations
-* 4 years experience (2 years and a scrum master and 2 years as a product owner) creating and prioritizing backlog items in the form of user stories linked to the value to delivery to users  
-* Over the past 4 years working on Agile projects I have formally identified and tracks value metrics used to report out on project success and return on investment and maintain realtime dashboards of those performance metrics
+* 5 years experience (2 years and a scrum master and 3 years as a product owner) creating and prioritizing backlog items in the form of user stories linked to the value to delivery to users  
+* Over the past 5 years working on Agile projects I have formally identified and tracks value metrics used to report out on project success and return on investment and maintain realtime dashboards of those performance metrics
+* All this to ensure the prudent use of financial resources
 
 
 ## Leadership in digital initiatives: _4 years experience_  
