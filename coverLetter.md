@@ -65,24 +65,25 @@ Our mandate at the outset of the project was to look at the common components bu
 * Using DevOps practices we made the cost of change very affordable, evident by the average number of pull requests merged over the past 18 months (783 pull requests in under 400 business days).  
 
 **Scrum Master Role** 
-> From Jan 2017 to Dec 2018, as the Scrum Master, I coached the product owner and the scrum team on ways to efficiently manage their work and stay focused on the goals and vision of the project. The transportation fuels reporting system (TFRS) project was unique in many ways:  
+> From Oct 2016 to Dec 2016 I created my own onboarding material to learn how to be a Scrum Master in the BC Gov. Since I was the first one I had no other options  
+> From Jan 2017 to Dec 2018, as the Scrum Master, I coached the product owner and the scrum team on ways to efficiently manage their work and stay focused on the goals and vision of the project. The transportation fuels reporting system (TFRS) project was unique in many ways:   
 
-* Formed of a new Agile team using the innovative "sprint with us" procurement process  
-* Coordinated and setup a physical lab space for the team to work, and made arrangments for the purchase of equipment  
-* Lead the transition between software development methodologies, from a traditional project management approach to following the agile principles and values 
-* Learned about DevOps pipelines and cloud native technologies  
-* Adopted new product management tools for backlog management and product roadmaps 
-* Encouraged developers who had to learn new programming languages 
+* Formed a new Agile team using the innovative "sprint with us" procurement process   
+* Coordinated and setup a physical lab space for the team to work, and made arrangments for the purchase of equipment   
+* Lead the transition between software development methodologies, from a traditional project management approach to following the agile principles and values  
+* Learned about DevOps pipelines and cloud native technologies   
+* Adopted new product management tools for backlog management and product roadmaps  
+* Encouraged developers who had to learn new programming languages  
 
-> During all of that time we were working in an open lab space under the constant microscope of executives who were touring the building every couple days. Even with all that overhead and all those pressures the product team was still able deliver a minimal viable product to production in under a year.
+> During all of that time we were working in an open lab space under the constant microscope of executives who were touring the building every couple days. Even with all that overhead and all those pressures the product team was still able deliver a minimal viable product to production in under a year.  
 
-
-## Leading change management activities in transformation initiatives:  _10 years experience_ 
-* Between April 2012 and now I have worked on transformation initiatives in the following roles:
-	* Project Manager on the Mines and Mineral Resources Automation and System Integration Project (2012 - 2014)
-	* Business Portfolio Manager for multiple systems in Ministry of Energy and Mines and Low Carbon Innovation including the introduction of mobile devices for inspectors with access to Mines data (2014) 
-	* Scrum Master for the Low Carbon Fuels branch of EMLI where we transition a waterfall project into an agile project (2016 - 2019)
-	* Product Owner of a Common Services team that began the work to shift the mindset of development team towards reusing common components instead of building it themselves (2019-2021)
+## Leading change management activities in transformation initiatives:  _10 years experience_   
+* Between April 2012 and now I have worked on transformation initiatives in the following roles:  
+	* Project Manager on the Mines and Mineral Resources Automation and System Integration Project (Apr 2012 - 2014)  
+	* Business Portfolio Manager for multiple systems in Ministry of Energy and Mines and Low Carbon Innovation including the introduction of mobile devices for inspectors with access to Mines data (2014 - Oct 2016)   
+	* Scrum Master for the Low Carbon Fuels branch of EMLI where we transition a waterfall project into an agile project (Oct 2016 - Oct 2018)  
+	* Product Owner of a Common Services team that began the work to shift the general mindsets of development teams towards reusing common components instead of building it themselves (Oct 2018 - Oct 2020)  
+	* Product Owner for the Mines Digital Trust team on a transformational product team building out a distributed ledger technology (e.g. blockchain) that will allow for authoritative sources to issue verifiable credentials that can be cryptographically proved to be from the source, issued to the holder and are tamper evident (Nov 2020 - Jan 2022)   
 
 **Business Transformation:**  
 * From 2012 to 2015 the Mines Project kicked off a business transformation that is continuing strong to this day. During my time on the project we built an application (Mines Information To Go) that introduced the utilization of tablets for inspectors and a way to have access to their systems information while offline at a mine. 
