@@ -165,24 +165,29 @@ During all of that time we were working in an open lab space under the constant 
 * Built relationships of trust with the Mining Association of BC and the BC Business Council for the work that we are doing
 
 ## Managing budgets, contracts and expenditures ensuring compliance with fiscal parameters and the prudent use of financial resources: _14 years experience_ 
-**Funding Sources, Salaries and Budget Tracking:**  
-* 1 year recent experience for the Mines Digital Trust team, being primarily responsible for tracking the budget of staff salary, and contractor funding against an OCIO capital funding approval
-* Submitting concept case for Telus SIF funding source, and writing the newly modifieid Agile Project Charter that they are using to accommodate the agile team approach
+> 1 year managing funding sources, salaries and budget tracking:  
 
-**Traditional Project Management:**
-* 9 years experience in traditional project management and business analysis conducting prioritization of issues based on business value, impact to operations, and cost estimates and tracking work to a budget
+* For the Mines Digital Trust team, I was primarily responsible for tracking the budget of staff salary, and contractor funding against an OCIO capital funding approval
+* I submitted the draft concept case for Telus SIF funding source, and drafted an Agile version of the Project Charter that they are using to accommodate the agile team approach
+
+> 9 years project management:  
+
+* Conducting prioritization of issues based on business value, impact to operations, and cost estimates and tracking work to a budget
 * I have lead all aspects of contract management and procurement processes
 
-**Agile Product Management:**
-* 5 years experience creating product roadmaps linked to the overall product vision to deliver a solution based on user needs. I link the biweekly planning goals to the overall product vision. I revise the plans biweekly based on user feedback and adapt the plan to those changing requirements    
-* 5 years experience tracking the effort of tasks and calculating the team velocity by which they complete work  
+> 5 years in Agile product management:  
+
+* Creating product roadmaps linked to the overall product vision to deliver a solution based on user needs  
+* I linked the biweekly planning goals to the overall product vision  
+* I revised the plans biweekly based on user feedback and adapted the plan to those changing requirements    
+* Tracked the effort of tasks and calculated the team velocity by which they complete work  
 	* Used those velocity statistics to plan future product delivery increments  
 	* The team costs are monitored and tracked  
 	* The costs are linked to the individual products we are building in order to calculate the total cost of ownerships for each piece of software we develop  
-	* Total cost of ownership is used in break even analysis and return on investment calculations
-* 5 years experience (2 years and a scrum master and 3 years as a product owner) creating and prioritizing backlog items in the form of user stories linked to the value to delivery to users  
-* Over the past 5 years working on Agile projects I have formally identified and tracks value metrics used to report out on project success and return on investment and maintain realtime dashboards of those performance metrics
-* All this to ensure the prudent use of financial resources
+	* Total cost of ownership is used in break even analysis and return on investment calculations  
+* Created and prioritized backlog items in the form of user stories linked to the value to delivery to users with an awareness of the average cost per story point  
+* I have formally identified and tracked value metrics used to report out on project success and return on investment and maintain realtime dashboards of those performance metrics  
+* All this to ensure the prudent use of financial resources  
 
 
 ## Leadership in digital initiatives: _4 years experience_  
