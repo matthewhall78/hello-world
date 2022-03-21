@@ -7,7 +7,7 @@
 ## Sr. Director, Digital Strategy
 ### Exchange Lab, Digital Platforms and Data Delivery Division, Office of the Chief Information Officer, Ministry of Citizen Services  
 
-- Common Components Program (Jan 2022 to Present)  
+- Common Components Program (Jan 2022 to Present)    
 	* Design the organizational structure and make up for three new agile teams (Form Design and Submission Team, Modernization Acceleration Team, Payment Team)  
 	* Plan the recruitment and onboarding strategy for over twenty new team members  
 	* Developed the strategy for how common component teams will collaborate with other teams throughout government  
@@ -15,8 +15,8 @@
 	* I have initiated partnerships with other Ministries who are providing form design and submission services    
 	* Responsible for the supervision and coaching of direct reports consisting of two Sr. Product Managers and a Product Owner
  
-## Product Owner:
-### Ministry of Energy Mines and Low-carbon Innovation ( 1 year 2 months )
+## Product Owner: ( 3 1/4 years )  
+### Ministry of Energy Mines and Low-carbon Innovation ( 1 year 2 months )  
 - Mines Digital Trust Team (Nov 2020 to Jan 2022)  
 	* Sr. Product Manager/Product Owner role with a focus on digital trust, decentralized identity, and verifiable credentials used in digital business to business transactions  
 	* Same responsibilities and duties as the above team plus additional responsibilities as shown below
@@ -30,8 +30,8 @@
 
 ### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section ( 2 years 1 month) 
 
-- Transportation Fuels Reporting System (Nov 2018)
-	* (Acting) Product Owner for 1 month
+- Transportation Fuels Reporting System (Nov 2018)  
+	* (Acting) Product Owner for 1 month  
 - Document Management Onboarding Demo (Jan 2019) 
 	* Product Owner for a three day, 12 person hackathon where we created a Document Management application [DMOD](https://github.com/bcgov/csnr-dmod/wiki/) | [3 Day Hackathon Results](https://github.com/bcgov/csnr-dmod/wiki/3-day-Hackathon#results)   
 - Common Service Showcase Team (Nov 2018 to Nov 2020)
@@ -54,8 +54,8 @@
 	* Collaborated daily with a Scrum Team and participated in the standard scrum meetings (daily standups, backlog refinement, product design sessions, user feedback sessions, sprint reviews, sprint planning and biweekly retrospectives) 
 	* Coordinated with executive leadership to review alignment to the overall goals of the organization 
 
-## Sr. Scrum Master:
-### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section: Oct 2016 - Oct 2018  
+## Sr. Scrum Master: ( 2 years )  
+### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section ( 2 years )  
 
 - Premier Awards: 
 	* 2017 Regional Finalist in the Category of Innovation  
@@ -74,15 +74,17 @@
 	* Produced the [TFRS task board](https://trello.com/tfrs1) for planning, review and backlog refinement  
 	* Organized Documentation on the [tfrs github wiki](https://github.com/bcgov/tfrs/wiki/)  
 	* Facilitated planning, review and retrospective meetings adhering to Scrum values, principles and practices
+
+## Agile Facilitator ( 4 years )  
 - Agile training and Lego4Scrum  (Oct 2016 to Sep 2020)    
 	* Facilitated dozens of Lego4Scrum workshops (reaching hundreds of individuals)   
 	* Collaborated with the BC Developer's Exchange in the development of training curriculum for new agile teams  
 	* Created an orientation package to assist new agile teams https://github.com/bcgov/agile-sdlc/wiki   
-- Scrum Master Guild  (Jan 2017 to Oct 2019)  
+- Scrum Master Guild Co-chair  (Jan 2017 to Oct 2019)  
 	* I reached out to all Scrum Master across government and extended an invite to form a Guild  
 	* I facilitate guild meetings and collaboratively create agendas  
 
-## Business Portfolio Manager, Business Analyst and Project Manager:
+## Business Portfolio Manager, Business Analyst and Project Manager: ( 10 years )  
 ### Corporate Services for Natural Resources, Information Mgmt Branch – Apr 2007 to Jul 2017  
 
 - Knowledge and experience with change management processes and project management methodologies (8 yrs)   
@@ -104,7 +106,7 @@
   Fire Commissioner data for research purposes  
 
 
-## Junior Business Analyst:
+## Junior Business Analyst: ( 10 months )  
 ### Ministry of Attorney General, ITSD – May 2006 to Mar 2007  
 
 - Lead the identification, implementation and documentation of project management 
@@ -120,7 +122,7 @@
 - Coordinated the replacement of all workstations for Ministry of Transportation Headquarters  
 
 
-## Website Developer:
+## Website Developer: ( 3 months )
 ### Ministry of Public Safety, Gaming Policy & Enforcement – Jun to Aug 2005   
 
 - Developed the internet website (http://www.pssg.gov.bc.ca/gaming/) to government standards   
