@@ -78,13 +78,14 @@ From Oct 2016 to Dec 2016 I created my own onboarding material to learn how to b
 
 During all of that time we were working in an open lab space under the constant microscope of executives who were touring the building every couple days. Even with all that overhead and all those pressures the product team was still able deliver a minimal viable product to production in under a year.  
 
-## Leading change management activities in transformation initiatives:  _10 years experience_   
-> 10 years experience since April 2012 and now working in in the following roles:  
-	* Project Manager on the Mines and Mineral Resources Automation and System Integration Project (Apr 2012 - 2014)  
-	* Business Portfolio Manager for multiple systems in Ministry of Energy and Mines and Low Carbon Innovation including the introduction of mobile devices for inspectors with access to Mines data (2014 - Oct 2016)   
-	* Scrum Master for the Low Carbon Fuels branch of EMLI where we transition a waterfall project into an agile project (Oct 2016 - Oct 2018)  
-	* Product Owner of a Common Services team that began the work to shift the general mindsets of development teams towards reusing common components instead of building it themselves (Oct 2018 - Oct 2020)  
-	* Product Owner for the Mines Digital Trust team on a transformational product team building out a distributed ledger technology (e.g. blockchain) that will allow for authoritative sources to issue verifiable credentials that can be cryptographically proved to be from the source, issued to the holder and are tamper evident (Nov 2020 - Jan 2022)   
+## Leading change management activities in transformation initiatives:  _10 years experience_    
+> 10 years experience since April 2012 and now working in in the following roles:   
+
+* Project Manager on the Mines and Mineral Resources Automation and System Integration Project (Apr 2012 - 2014)   
+* Business Portfolio Manager for multiple systems in Ministry of Energy and Mines and Low Carbon Innovation including the introduction of mobile devices for inspectors with access to Mines data (2014 - Oct 2016)   
+* Scrum Master for the Low Carbon Fuels branch of EMLI where we transition a waterfall project into an agile project (Oct 2016 - Oct 2018)  
+* Product Owner of a Common Services team that began the work to shift the general mindsets of development teams towards reusing common components instead of building it themselves (Oct 2018 - Oct 2020)   
+* Product Owner for the Mines Digital Trust team on a transformational product team building out a distributed ledger technology (e.g. blockchain) that will allow for authoritative sources to issue verifiable credentials that can be cryptographically proved to be from the source, issued to the holder and are tamper evident (Nov 2020 - Jan 2022)   
 
 ## Supervising employees, professionals and multi-disciplinary teams: _8 years experience_
 > 3 years experience in the capacity of a Business Portfolio Manager which involved
