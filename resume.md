@@ -221,7 +221,7 @@
 0. Certified Scrum Product Owner, https://www.scrumalliance.org/community/profile/mhall78
 1. Certified Scrum Master, https://www.scrumalliance.org/community/profile/mhall78	
 2. Professional Scrum Master Certification, Scrum.org, https://www.scrum.org/user/245848  
-3.	Associates Certificate in Business Analysis, McMaster University, http://www.globalknowledge.ca/training/certification_listing.asp?pageid=59&certid=890   
+3.	Associates Certificate in Business Analysis, McMaster University, http://www.globalknowledge.ca/   
 4.	View formatted Resume on GitHub:
 	[resume.md](https://github.com/matthewhall78/hello-world/blob/master/resume.md)
 5.	View formatted Cover Letter on GitHub: 
