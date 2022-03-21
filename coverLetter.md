@@ -37,12 +37,15 @@
 * I created a governance framework template to provide structure for how teams who share the need for a core capability like "form design and submission" will collaborate in an open source project model
 
 **Product Owner Role**
-> From Jan 2019 to Jan 2022, similar to in my current role as Senior Director and in my previous role as Senior Scrum Master role, I also began this role without a team in place and needed to build and guide new team members into becoming a high functioning team:  
+> From Jan 2019 to Nov 2020 (Common Service Showcase Team)
+> From Nov 2020 to Jan 2022 (Mines Digital Trust Team) 
 
-* Start up a new team beginning with contract procurement of developers, and
-* Build a high functioning team with contractors and some other recently hired full time staff.   
+* Similar to in my current role as Senior Director and in my previous role as Senior Scrum Master role, I also began in both of the above roles without a team in place and needed to build and guide new team members into becoming a high functioning team:  
+	* Start up a new team beginning with contract procurement of developers
+	* Initiate some staff competitions for employee roles on the team
+	* Coach the team towards being a high functioning team
 
-> Our mandate at the outset of the project was to look at a set of previously built common services and make it easy to onboard to them. This began a very exciting journey into how we can evolve and modernize existing applications to take advantage of the latest architectural principles such as:   
+Our mandate at the outset of the project was to look at the common components built as part of the Natural Resources Permitting Project and make them easy to onboard to. This began a very exciting journey into how we can evolve and modernize existing applications to take advantage of the latest architectural principles such as:   
 
 * DevOps  
 * Cloud Platforms
@@ -133,13 +136,17 @@
 	* Our code includes unit tests, api test, and functional user interface tests, all of which are automated, and where possible, built out following test driven development principles
 	* We follow an API first approach in order to build in a way that enables us to adapt quickly to changing requirements
 
-## Experience leading teams and resolving complex staff and/or client issues  _8 years experience_  
+## Experience leading teams and resolving complex staff and/or client issues:  _8 years experience_  
 
-> 3 years as a Business Portfolio Manager 
-> 2 years as a Scrum Master 
-> 3 years as a Product Owner 
+> 3 years as a Business Portfolio Manager  
+> 2 years as a Scrum Master  
+> 3 years as a Product Owner  
 
-## Experience building relationships with multiple jurisdictions, stakeholders, and private sectors  _5 years experience_  
+* On each of these teams there have been opportunities to coach and encourage team members who may have untapped potential to strive for greater achievement.
+* In some cases I have chosen to negotiate with a contract delivery manager to provide alternate resources
+* On one project as a Business Portfolio Manager we chose to end a contract and pivot to an agile approach resulting faster feedback cycles, producing better outcomes for the business area and its clients
+
+## Experience building relationships with multiple jurisdictions, stakeholders, and private sectors:  _5 years experience_  
 * On the Common Service Showcase Team the majority of my communication involves planning ahead to identify the stakeholder relationships to establish and the partnerships to create and leverage in order to achieve the product vision. Carrying out these communications often involves creative use of tools and communication channels. Some of the relationships I have established include:
 	* Other teams who are building common components
 	* Governance level sponsors and directors who influence the adoption and funding of what we are building
@@ -148,7 +155,7 @@
 	* Platform services who we rely on for foundational technology
 	* Training and communications groups who provide an avenue for outreach and product awareness
 	* Other corporate-wide groups or subject matter experts such as privacy and security professionals
-	* 
+
 
 ## Prioritization of work in planning based on user needs, costs, value delivered, and return on investment: _13 years experience_ 
 **Traditional Project Management:**
@@ -165,7 +172,7 @@
 * Over the past 4 years working on Agile projects I have formally identified and tracks value metrics used to report out on project success and return on investment and maintain realtime dashboards of those performance metrics
 
 
-## Managing organizational change: _4 years experience_  
+## Leadership in digital initiatives: _4 years experience_  
 > From Oct 2016 to current, The organizational change I have been championing is the implementation of an agile culture within the BC Government.  
 
 * I was among the first few to form agile teams  
