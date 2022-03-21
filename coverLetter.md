@@ -190,7 +190,7 @@ During all of that time we were working in an open lab space under the constant 
 * All this to ensure the prudent use of financial resources  
 
 
-## Leadership in digital initiatives: _4 years experience_  
+## Leadership in digital initiatives, delivering training, and achieving organizational alignment: _4 years experience_  
 > From Oct 2016 to current, The organizational change I have been championing is the implementation of an agile culture within the BC Government.  
 
 * I was among the first few to form agile teams  
