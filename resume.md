@@ -16,7 +16,7 @@
 	* Responsible for the supervision and coaching of direct reports consisting of two Sr. Product Managers and a Product Owner
  
 ## Product Owner:
-### Ministry of Energy Mines and Low-carbon Innovation
+### Ministry of Energy Mines and Low-carbon Innovation ( 1 year 2 months )
 - Mines Digital Trust Team (Nov 2020 to Jan 2022)  
 	* Sr. Product Manager/Product Owner role with a focus on digital trust, decentralized identity, and verifiable credentials used in digital business to business transactions  
 	* Same responsibilities and duties as the above team plus additional responsibilities as shown below
