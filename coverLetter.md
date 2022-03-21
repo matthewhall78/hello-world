@@ -76,7 +76,7 @@ From Oct 2016 to Dec 2016 I created my own onboarding material to learn how to b
 * Adopted new product management tools for backlog management and product roadmaps  
 * Encouraged developers who had to learn new programming languages  
 
-> During all of that time we were working in an open lab space under the constant microscope of executives who were touring the building every couple days. Even with all that overhead and all those pressures the product team was still able deliver a minimal viable product to production in under a year.  
+During all of that time we were working in an open lab space under the constant microscope of executives who were touring the building every couple days. Even with all that overhead and all those pressures the product team was still able deliver a minimal viable product to production in under a year.  
 
 ## Leading change management activities in transformation initiatives:  _10 years experience_   
 > 10 years experience since April 2012 and now working in in the following roles:  
