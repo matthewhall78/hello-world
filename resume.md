@@ -28,7 +28,7 @@
 	* Formation of an advisory board that includes membership from global Climate leaders such as the UN Climate Change Global Innovation Hub and the Open Earth Foundation  
 	* Established the vision and initial scope for a product called [Traction](https://github.com/bcgov/traction) which will be the next evolution of the Business Partner Agent, with a focus on how existing line of business software applications can easily integrate with an enterprise digital wallet solution for issuing, verifying and holding verifiable credentials 
 
-### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section  
+### Information, Innovation & Technology Division, Strategic Initiatives and Business Transformation Branch, Development and Digital Services Section ( 2 years 1 month) 
 
 - Transportation Fuels Reporting System (Nov 2018)
 	* (Acting) Product Owner for 1 month
