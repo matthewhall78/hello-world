@@ -37,13 +37,13 @@
 * I created a governance framework template to provide structure for how teams who share the need for a core capability like "form design and submission" will collaborate in an open source project model
 
 **Product Owner Role**
-> From Jan 2019 to Nov 2020 (Common Service Showcase Team)
-> From Nov 2020 to Jan 2022 (Mines Digital Trust Team) 
+> From Jan 2019 to Nov 2020 (Common Service Showcase Team)  
+> From Nov 2020 to Jan 2022 (Mines Digital Trust Team)  
 
-* Similar to in my current role as Senior Director and in my previous role as Senior Scrum Master role, I also began in both of the above roles without a team in place and needed to build and guide new team members into becoming a high functioning team:  
-	* Start up a new team beginning with contract procurement of developers
-	* Initiate some staff competitions for employee roles on the team
-	* Coach the team towards being a high functioning team
+* Similar to in my current role as Senior Director and in my previous role as Senior Scrum Master role, I also began in both of the above roles without a team in place and needed to build and guide new team members into becoming a high functioning team:   
+	* Start up a new team beginning with contract procurement of developers  
+	* Initiate some staff competitions for employee roles on the team  
+	* Coach the team towards being a high functioning team  
 
 Our mandate at the outset of the project was to look at the common components built as part of the Natural Resources Permitting Project and make them easy to onboard to. This began a very exciting journey into how we can evolve and modernize existing applications to take advantage of the latest architectural principles such as:   
 
@@ -52,7 +52,7 @@ Our mandate at the outset of the project was to look at the common components bu
 * Open Source products
 * Open APIs and microservices  
 
-> During my 2 years in this role my team has created 14 code repositories with which we use to accomplish the following:    
+During my 2 years in this role my team has created 14 code repositories with which we use to accomplish the following:    
 
 * Deployed an application to conduct automated onboarding of api access 
 * Launched two common components apis (email messaging and document generation) each with a stand alone showcase application
@@ -64,8 +64,9 @@ Our mandate at the outset of the project was to look at the common components bu
 * Released an MVP of a form design and submission service currently serving over 350 forms and 3050 users
 * Using DevOps practices we made the cost of change very affordable, evident by the average number of pull requests merged over the past 18 months (783 pull requests in under 400 business days).  
 
-**Scrum Master Role** 
-> From Oct 2016 to Dec 2016 I created my own onboarding material to learn how to be a Scrum Master in the BC Gov. Since I was the first one I had no other options  
+**Scrum Master Role**  
+From Oct 2016 to Dec 2016 I created my own onboarding material to learn how to be a Scrum Master in the BC Gov. Since I was the first one I had no other options   
+
 > From Jan 2017 to Dec 2018, as the Scrum Master, I coached the product owner and the scrum team on ways to efficiently manage their work and stay focused on the goals and vision of the project. The transportation fuels reporting system (TFRS) project was unique in many ways:   
 
 * Formed a new Agile team using the innovative "sprint with us" procurement process   
