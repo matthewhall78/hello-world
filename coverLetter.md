@@ -19,10 +19,10 @@
 | Sr. Director	(current)		| 2 months	| cumulative |
 | Product Owner (Sr. Product Manager)	| 3.5		| Certified Scrum Product Owner |  
 | Sr. Scrum Master - Technical		| 2		| Advanced Certified Scrum Master |  
-| Business Portfolio Manager 		| 6		| Business Analysis - Associate Certification courses |  
-| Project Manager, Business Analyst	| 9		| Bachelor of Science Degree, Computer Science/ Psychology |  
+| Business Portfolio Manager 		| 4		| Business Analysis - Associate Certification courses |  
+| Project Manager, Business Analyst	| 5		| Bachelor of Science Degree, Computer Science/ Psychology |  
 | Junior Implementation Analyst 	| 1.5		| Diploma in Business Administration, eBusiness and Information Systems |  
-| Web Developer				| 3		| Software Engineering Courses at UVic |   
+| Web Developer	(Co-op)			| 3 months	| Software Engineering Courses at UVic |   
 
 
 # Job Requirements 
