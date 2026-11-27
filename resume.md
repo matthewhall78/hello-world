@@ -3,11 +3,28 @@
 **(250) 896-4059 | mmhall@gmail.com**
 
 # Experience
+## Chief Product Owner / Sr. Director, Digital Portfolio  
+### Common Capabilities and AI Platforms, Ministry of Citizen Services
+- Common Components Portfolio (Apr 2023 to present)
+	* Approve the vision and high-level roadmap for four product teams operating within a value stream
+ 	* Provided guiding principles for how the teams measure success
+  	* Responsible for the establishment of contracts, portfolio resource and budget allocations, and the investment decision for ongoing continuous improvement activities
+  	* Chair the portfolio's committee for technical architectural
+  	* Accountable for delivering valuable outcomes to partner clients by delivery of the following core capabilities:
+  		- Form design and submission platform [common-hosted-form-service](https://github.com/bcgov/common-hosted-form-service)
+  	 	- Notifications and template management platform [common-notify](https://github.com/bcgov/common-notify)
+  	  	- Workflow, analytics and monitoring platform [common-hosted-workflow](https://github.com/bcgov/common-hosted-workflow)
+	* Directing the teams' work in the delivery of additional components required for the core business capabilities:
+ 		- Component for enabling event driven architectures [event-stream-service](https://github.com/bcgov/event-stream-service)
+   		- Component for subscribing to notifications [common-hosted-subscriptions-for-event-notifications](https://github.com/bcgov/chosen)
+     	- Component for enabling multitenancy and team role management [connected-service-team-access-and-roles](https://github.com/bcgov/tenant-management-system)
+	* Supervising four teams comprising of 10 employees and 27 contractors who strive to promote cross-team contributions and best practices
+ 	* Lead the portfolio team of teams meetings for executive actions, and agile delivery topics
 
-## Sr. Director, Digital Strategy
+## Sr. Director, Digital Delivery
 ### Exchange Lab, Digital Platforms and Data Delivery Division, Office of the Chief Information Officer, Ministry of Citizen Services  
 
-- Common Components Program (Jan 2022 to Present)  
+- Common Components (Jan 2022 to Mar 2023)  
 	* Design the organizational structure and make up for three new agile teams (Form Design and Submission Team, Modernization Acceleration Team, Payment Team)  
 	* Plan the recruitment and onboarding strategy for over twenty new team members  
 	* Developed the strategy for how common component teams will collaborate with other teams throughout government  
